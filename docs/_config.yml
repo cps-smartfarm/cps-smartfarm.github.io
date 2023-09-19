@@ -22,12 +22,13 @@ title: Sharing Farm Intelligence
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
     A NFS-funded project.
-baseurl: "/CPS-SmartFarm/cps-smartfarm.github.io" # the subpath of your site, e.g. /blog
+baseurl: "/cps-smartfarm.github.io" # the subpath of your site, e.g. /blog
 url: "http://cps-smartfarm.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sharingfarmintelligence
 github_username:  sharingfarmintelligence
 
 # Build settings
+remote_theme: chrisrhymes/bulma-clean-theme
 plugins:
   - jekyll-sitemap
   - jekyll-paginate
@@ -35,8 +36,8 @@ plugins:
   - jekyll-seo-tag
   - kramdown-parser-gfm
   - jekyll-redirect-from
-
-remote_theme: chrisrhymes/bulma-clean-theme
+  - jekyll-remote-theme
+  
 permalink: pretty
 
 exclude:
