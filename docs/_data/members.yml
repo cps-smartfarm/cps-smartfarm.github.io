@@ -1,0 +1,48 @@
+- picture: 
+  name: Flavio Esposito
+  site: http://test.dev
+  email: andre@test.dev
+  role: Professor
+  summary: Summary
+
+- picture: 
+  name: Vasit Sagan
+  site: http://test.dev
+  email: 
+  role: Professor
+  summary: Summary
+
+- picture: 
+  name: Reza Turani
+  site: http://test.dev
+  email: 
+  role: Professor
+  summary: Summary
+
+- picture: 
+  name: Kate Holdener
+  site: http://test.dev
+  email: andre@test.dev
+  role: Professor
+  summary: Summary
+
+- picture: 
+  name: Nurzaman Ahmed
+  site: http://test.dev
+  email: andre@test.dev
+  role: Post-Doc
+  summary: Summary
+
+- picture: 
+  name: Marshall
+  site: http://test.dev
+  email: andre@test.dev
+  role: Professor
+  summary: Summary
+
+- picture: 
+  name: Felipe A. Lopes
+  site: http://felipealencar.github.io
+  email: felipe.lopes@slu.edu
+  role: Post-Doc
+  summary: Summary
