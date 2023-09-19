@@ -28,7 +28,6 @@ twitter_username: sharingfarmintelligence
 github_username:  sharingfarmintelligence
 
 # Build settings
-theme: bulma-clean-theme
 plugins:
   - jekyll-sitemap
   - jekyll-paginate
