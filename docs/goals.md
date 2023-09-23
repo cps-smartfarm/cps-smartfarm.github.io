@@ -3,6 +3,7 @@ layout: page
 title: Goals
 subtitle: 
 permalink: /goals/
+image: ../assets/images/goals.jpeg
 ---
 
 In the era of data sharing, it is still challenging, insecure, and time-consuming for scientists to share lessons learned from agricultural data collection and data processing. The focus of this project is to mitigate such challenges by intersecting expertise in plant science, secure networked systems, software engineering, and geospatial science. The proposed cyber-physical system will be evaluated in the laboratory and deployed on real crop farms in Missouri, Illinois, and Tennessee. All results will be shared with international organizations whose goal is to increase food security and improve human health and nutrition.
