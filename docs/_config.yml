@@ -26,7 +26,7 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://cps-smartfarm.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sharingfarmintelligence
 github_username:  sharingfarmintelligence
-nsf_logo: ../assets/images/nsf.png
+nsf_logo: /assets/images/nsf.png
 
 # Build settings
 remote_theme: chrisrhymes/bulma-clean-theme
