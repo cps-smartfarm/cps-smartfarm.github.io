@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Publications
-subtitle: Paper published from our project
+subtitle: Papers published from our research activities
 permalink: /publications/
+image: /images/smart-ag.jpeg
 ---
 
 <ul>

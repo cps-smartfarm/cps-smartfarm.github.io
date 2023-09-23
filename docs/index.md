@@ -3,10 +3,10 @@ layout: page
 title: Home
 subtitle: Sharing Farm Intelligence via Edge Computing
 hide_footer: false
-image: /images/smart-ag.jpeg
+image: assets/images/smart-ag.jpeg
 
 ---
 
-Welcome to the *Sharing Farm Intelligence project*.
+Welcome to the Sharing Farm Intelligence project.
 
-You can find the sources code related to this project at [GitHub](https://github.com/CPS-SmartFarm).
+You can find the source code related to this project on [GitHub](https://github.com/CPS-SmartFarm).

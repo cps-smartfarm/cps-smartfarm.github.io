@@ -5,19 +5,19 @@
   role: Professor
   summary: Summary
 
-- picture: 
+- picture: ../assets/images/profiles/vasit.jpeg
   name: Vasit Sagan
-  site: http://test.dev
-  email: 
+  site: https://www.linkedin.com/in/vasit-sagan-396870178/
+  email: vasit.sagan@slu.edu
   role: Professor
-  summary: Summary
+  summary: Dr. Vasit Sagan is responsible for developing remote sensing applications for the project. He establishes field experimental sites, lead ground truth data collection on plant disease and water stress, and develop computer vision, generative AI, ML algorithms, and software pipelines to detect plant disease and water stress.
 
-- picture: 
-  name: Reza Turani
-  site: http://test.dev
-  email: 
+- picture: ../assets/images/profiles/reza.jpeg
+  name: Reza Tourani
+  site: https://linkedin.com/in/reza-tourani-27584453
+  email: reza.tourani@slu.edu
   role: Professor
-  summary: Summary
+  summary: Reza Tourani (GSM’12, M’18) is an assistant professor with the Computer Science department at Saint Louis University since 2018. He received his PhD in Computer Science from New Mexico State University in 2018. His research interests are the broader areas of security and privacy, with a focus on building secure by design protocols and resilient systems, ranging from cyber-physical system such as Internet Things to edge computing with a particular emphasis on distributed access control, trusted and verifiable computing.
 
 - picture: 
   name: Kate Holdener
@@ -33,16 +33,17 @@
   role: Post-Doc
   summary: Summary
 
-- picture: 
-  name: Marshall
-  site: http://test.dev
-  email: andre@test.dev
-  role: Professor
-  summary: Summary
-
-- picture: 
+- picture: ../assets/images/profiles/felipe.jpeg
   name: Felipe A. Lopes
   site: http://felipealencar.github.io
   email: felipe.lopes@slu.edu
   role: Post-Doc
-  summary: Summary
+  summary: Felipe A. Lopes is an Assistant Professor at the Federal Institute of Alagoas, currently on leave to pursue postdoctoral research at Saint Louis University in collaboration with the Remote Sensing Laboratory. His work within the project focuses on researching Generative Adversarial Networks and their potential in shaping intelligent models for field crop monitoring.
+
+- picture: ../assets/images/profiles/marshall.jpeg
+  name: Marshall Okafor
+  site: http://test.dev
+  email: okwudilichukwu.okafor@slu.edu
+  role: PhD Student
+  summary: Marshall is currently a PhD student in the Computer Science Department at Saint Louis University, Missouri United States. He is a 2021 GlobalGraduate Scholar at Saint Louis University (SLU). His research interests include Software development, computer programming, IoT, Machine Learning and Cloud technologies. Marshall is part of the backend software engineering team working on building the wireless sensor network. 
+
