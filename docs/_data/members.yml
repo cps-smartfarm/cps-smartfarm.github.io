@@ -7,10 +7,10 @@
 
 - picture: ../assets/images/profiles/nadia.jpeg
   name: Nadia Shakoor
-  site: 
+  site: https://www.linkedin.com/in/nadiashakoor/
   email: nshakoor@danforthcenter.org
   role: co-PI
-  summary: TDB.
+  summary: Dr. Shakoor is an expert in crop genetics and plant phenotyping and is engaged in several initiatives to develop cyber-physical platforms for remote sensing and the use of sensor networks and digital devices for in-field data capture. Sensor platforms and hardware from her previously-funded projects will be leveraged as testbeds for the current project’s software and infrastructure deliverables. She has an established and extensive network of collaborators in the farming community and will work closely with Drs. Esposito and Sagan in the community engagement and crop science validation activities of the proposed project. She will also co-advise one of the postdocs with co-PI Sagan on the crop science activities.
 
 - picture: ../assets/images/profiles/vasit.jpeg
   name: Vasit Sagan
@@ -26,19 +26,19 @@
   role: co-PI, Associate Professor (Saint Louis University)
   summary: Reza Tourani (GSM’12, M’18) is an assistant professor with the Computer Science department at Saint Louis University since 2018. He received his PhD in Computer Science from New Mexico State University in 2018. His research interests are the broader areas of security and privacy, with a focus on building secure by design protocols and resilient systems, ranging from cyber-physical system such as Internet Things to edge computing with a particular emphasis on distributed access control, trusted and verifiable computing.
 
-- picture: 
+- picture: ../assets/images/profiles/kate.jpeg
   name: Kate Holdener
   site: http://test.dev
   email: andre@test.dev
   role: co-PI, Assistant Professor (Saint Louis University)
   summary: Summary
 
-- picture: 
+- picture: ../assets/images/profiles/nur.png
   name: Nurzaman Ahmed
-  site: http://test.dev
-  email: andre@test.dev
-  role: Post-Doc
-  summary: Summary
+  site: https://www.linkedin.com/in/nurzaman-ahmed-phd-75874892/
+  email: nahmed@danforthcenter.org
+  role: Engineering Research Scientist (Donald Danforth Plant Science Center)
+  summary: Nurzaman Ahmed is an Engineering Research Scientist at Donald Danforth Plant Science Center. Before joining Danforth he was a  Postdoctoral Scholar at Dartmouth College. Dr. Ahmed was also a Postdoctoral Fellow at Indian Institute of Science, Bangalore, and a Research Associate at Indian Institute of Technology, Kharagpur. He received his Doctor of Philosophy from North-Eastern Hill University, India, in 2020. He received Bachelor of Technology and Master of Technology in Information Technology from North-Eastern Hill University in 2013 and 2016, respectively. He has more than seven years of research experience working for Govt. of India and Govt. of US sponsored projects. He has published several research papers in reputed international journals, conferences, and book chapters and has patents. His current research interests include Internet of Things (IoT), Software-Defined Networks (SDN), and WiFi-based long-distance networks. He is a member of IEEE and ACM and a graduate member of IEEE ComSoc.
 
 - picture: ../assets/images/profiles/felipe.jpeg
   name: Felipe A. Lopes
@@ -53,4 +53,12 @@
   email: okwudilichukwu.okafor@slu.edu
   role: PhD Student (Saint Louis University)
   summary: Marshall is currently a PhD student in the Computer Science Department at Saint Louis University, Missouri United States. He is a 2021 GlobalGraduate Scholar at Saint Louis University (SLU). His research interests include Software development, computer programming, IoT, Machine Learning and Cloud technologies. Marshall is part of the backend software engineering team working on building the wireless sensor network. 
+
+- picture: ../assets/images/profiles/blank.png
+  name: Chenxi Li
+  site: https://www.linkedin.com/in/chenxi-li-b214521b9/
+  email: chenxi.li@slu.edu
+  role: Collaborator
+  summary: I am mainly responsible for researching network security and attacks.
+
 
