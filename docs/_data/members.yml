@@ -1,4 +1,4 @@
-- picture: ./assets/images/profiles/flavio.jpeg
+- picture: ../assets/images/profiles/flavio.jpeg
   name: Flavio Esposito
   site: http://test.dev
   email: andre@test.dev
