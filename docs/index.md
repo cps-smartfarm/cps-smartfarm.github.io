@@ -57,7 +57,7 @@ image: assets/images/smart-ag.jpeg
       </div>
     </div>
     <div class="column is-one-third">
-      <div class="video-container" style="margin-right: 15%; ">
+      <div class="video-container" style="margin-right: 15%; padding-top: 3rem; padding-bottom: 3rem;">
         <iframe width="100%" height="315" src="https://www.youtube.com/embed/99mV_EAidtk?si=G4p_7kq-oBPTMIJi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
       </div>
     </div>
