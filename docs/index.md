@@ -42,7 +42,7 @@ image: assets/images/smart-ag.jpeg
 
 <div class="video-background">
   <video width="100%" controls>
-  <source src="https://github.com/cps-smartfarm/cps-smartfarm.github.io/raw/docs/assets/videos/cps.mp4" type="video/mp4">
+  <source src="https://github.com/CPS-SmartFarm/cps-smartfarm.github.io/raw/main/docs/assets/videos/cps.mp4" type="video/mp4">
   </video>
 </div>
 
