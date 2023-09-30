@@ -6,6 +6,17 @@ hide_footer: false
 image: assets/images/smart-ag.jpeg
 ---
 <style>
+  .section {
+    padding: 0px;
+  }
+  .text {
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+  }
+  .heading-center h1{
+    text-align: center;
+  }
+
   .image-background {
   background-repeat: no-repeat;
   background-size: cover;
@@ -24,7 +35,7 @@ image: assets/images/smart-ag.jpeg
 }
 
 </style>
-<div class="image-background" style="min-height: 200; background-image: url('../assets/images/gallery/members.jpg');">
+<div class="heading-center white-background" style="min-height: 400px;">
   <div class="text">
     <h1>Welcome</h1>
     The Sharing Farm Intelligence project.
@@ -33,7 +44,7 @@ image: assets/images/smart-ag.jpeg
   </div>
 </div>
 
-<div class="white-background" style="min-height: 200;">
+<div class="heading-center image-background" style="min-height: 400px; background-image: url('../assets/images/gallery/members.jpg');">
   <div class="text">
   <h1>Collaboration</h1>
     The partnership between a plant science center, a remote sensing lab, and a computer science department is a unique opportunity to develop innovative solutions in the field of agriculture.
@@ -46,7 +57,8 @@ image: assets/images/smart-ag.jpeg
   </video>
 </div>
 
-<div class="image-background" style="min-height: 200; background-image: url('../assets/images/gallery/field.jpg');">
+<div class="heading-center image-background" style="min-height: 400px; background-image: url('../assets/images/gallery/field.jpg'); color: black;">
+  <h1>Contact us</h1>
   We also collaborate with companies and other research centers to develop new solutions for agriculture. Please take a look at the source code related to this project on <a href="https://github.com/CPS-SmartFarm">GitHub</a>, and <a href="mailto:flavio.esposito@slu.edu">get in touch</a> if you are interested in collaborating with us.
 </div>
 
