@@ -34,8 +34,7 @@ image: assets/images/smart-ag.jpeg
 
 <div class="video-background">
   <video width="100%" controls>
-    <source src="../assets/videos/cps.mp4" type="video/mp4">
-    Your browser does not support the video tag.
+  <source src="https://github.com/cps-smartfarm/cps-smartfarm.github.io/raw/docs/assets/videos/cps.mp4" type="video/mp4">
   </video>
 </div>
 
