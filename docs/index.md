@@ -8,7 +8,7 @@ image: assets/images/smart-ag.jpeg
 <style>
   @media screen and (min-width: 1024px)
   .container {
-    max-width: 100%;
+    max-width: none !important;
   }
   @media screen and (min-width: 1024px)
   .navbar > .container .navbar-brand, .container > .navbar .navbar-brand {
