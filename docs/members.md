@@ -3,7 +3,7 @@ layout: page
 title: Members
 subtitle: These are the members of the project
 permalink: /members/
-image: ../assets/images/members.jpg
+image: ../assets/images/gallery/members3.jpg
 
 ---
 

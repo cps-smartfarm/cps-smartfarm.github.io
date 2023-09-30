@@ -47,11 +47,20 @@ image: assets/images/smart-ag.jpeg
 
 </style>
 <div class="heading-center white-background">
-  <div class="text">
-    <h2 class="title is-3">Welcome</h2>
-    The Sharing Farm Intelligence project.
+  <div class="columns">
+    <div class="column is-two-thirds">
+      <div class="text">
+        <h2 class="title is-3">Welcome</h2>
+        The Sharing Farm Intelligence project.
 
-    More than 10 researchers involved in developing solutions to improve agriculture and food production in the context of climate change and population growth. The project is funded by the <a href="https://www.nsf.gov/">NSF</a>.
+        More than 10 researchers involved in developing solutions to improve agriculture and food production in the context of climate change and population growth. The project is funded by the <a href="https://www.nsf.gov/">NSF</a>.
+      </div>
+    </div>
+    <div class="column is-one-third">
+      <div class="video-container" style="margin-right: 15%; ">
+        <iframe width="100%" height="315" src="https://www.youtube.com/embed/99mV_EAidtk?si=G4p_7kq-oBPTMIJi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      </div>
+    </div>
   </div>
 </div>
 
@@ -63,9 +72,7 @@ image: assets/images/smart-ag.jpeg
 </div>
 
 <div class="video-background">
-  <video width="100%" controls>
-  <source src="https://github.com/CPS-SmartFarm/cps-smartfarm.github.io/raw/main/docs/assets/videos/cps.mp4" type="video/mp4">
-  </video>
+  
 </div>
 
 <div class="heading-center image-background" style="background-image: url('../assets/images/gallery/members.jpg'); color: black;">

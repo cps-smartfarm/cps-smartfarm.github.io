@@ -3076,3 +3076,7 @@ div.highlight { margin-bottom: 1rem; }
     position: relative; /* Make sure the text is a positioned element */
     z-index: 2; /* Place the text above the pseudo-element */
   }
+
+.navbar > .container .navbar-brand, .container > .navbar .navbar-brand {
+    margin-left: 2.3%;
+  }
