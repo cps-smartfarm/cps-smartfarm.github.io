@@ -18,6 +18,22 @@ image: assets/images/smart-ag.jpeg
     padding: 9rem 4.5rem;
   }
 
+    /* Default styles for all screen sizes */
+  .text-highlight {
+    padding: 9rem 4.5rem;
+    width: 40%; /* Relative width for larger screens */
+    min-width: 200px; /* Minimum width to prevent excessive narrowing */
+  }
+
+  /* Apply styles for screens with a maximum width of 768px (adjust the value as needed) */
+  @media (max-width: 768px) {
+    .text-highlight {
+      padding: 9rem 4.5rem;
+      width: 100%; /* Use full width on smaller screens */
+      min-width: auto; /* Remove minimum width */
+    }
+  }
+
   .section {
     padding: 0px;
   }
@@ -45,6 +61,14 @@ image: assets/images/smart-ag.jpeg
     padding: 50px; /* Adjust the padding as needed */
   }
 
+/* Apply styles for screens with a minimum width of 1200px (adjust the value as needed) */
+@media (min-width: 1200px) {
+  .video-container {
+    margin-right: 15%; 
+    padding-top: 3rem; 
+    padding-bottom: 3rem;  }
+}
+
 </style>
 <div class="heading-center white-background">
   <div class="columns">
@@ -57,32 +81,36 @@ image: assets/images/smart-ag.jpeg
       </div>
     </div>
     <div class="column is-one-third">
-      <div class="video-container" style="margin-right: 15%; padding-top: 3rem; padding-bottom: 3rem;">
+      <div class="video-container">
         <iframe width="100%" height="315" src="https://www.youtube.com/embed/99mV_EAidtk?si=G4p_7kq-oBPTMIJi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
       </div>
     </div>
   </div>
 </div>
 
-<div class="heading-center image-background" style="background-image: url('../assets/images/gallery/members2.jpg');">
-  <div class="text" style="width: 40%;">
+<div class="heading-center image-background" style="background-image: url('../assets/images/gallery/members2.jpg'); background-size: cover;">
+  <div class="text-highlight">
   <h2 class="title is-3" style="color: white;">Collaboration</h2>
     The partnership between a plant science center, a remote sensing lab, and a computer science department is a unique opportunity to develop innovative solutions in the field of agriculture.
   </div>
 </div>
 
 <div class="background">
-<div class="columns is-vcentered">
-    <div class="column is-half" style="padding-left: 25%; padding-right: 10%;">
-      <img src="../assets/images/slu.png" alt="Saint Louis University white logo">
+  <div class="columns is-centered">
+    <div class="column is-half">
+      <div class="is-flex is-vcentered is-hcentered" style="padding: 0% 20%">
+        <img src="../assets/images/slu.png" alt="Saint Louis University white logo">
+      </div>
     </div>
-    <div class="column is-half" style="padding-right: 25%; padding-left: 10%;">
-      <img src="../assets/images/donald.png" alt="Donald Danforth Plant Center white logo">
+    <div class="column is-half">
+      <div class="is-flex is-vcentered is-hcentered" style="padding: 0% 20%">
+        <img src="../assets/images/donald.png" alt="Donald Danforth Plant Center white logo">
+      </div>
     </div>
   </div>
 </div>
 
-<div class="heading-center image-background" style="background-image: url('../assets/images/gallery/members.jpg'); color: black;">
+<div class="heading-center image-background" style="background-image: url('../assets/images/gallery/members.jpg'); background-size: cover; color: black;">
   <div class="text">
     <h2 class="title is-3">Contact us</h2>
     We also collaborate with companies and other research centers to develop new solutions for agriculture. Please take a look at the source code related to this project on <a href="https://github.com/CPS-SmartFarm">GitHub</a>, and <a href="mailto:flavio.esposito@slu.edu">get in touch</a> if you are interested in collaborating with us.
