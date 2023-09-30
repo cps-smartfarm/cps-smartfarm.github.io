@@ -13,9 +13,6 @@ image: assets/images/smart-ag.jpeg
     margin-block-start: 1em;
     margin-block-end: 1em;
   }
-  .heading-center h1{
-    text-align: center;
-  }
 
   .image-background {
   background-repeat: no-repeat;
@@ -35,18 +32,18 @@ image: assets/images/smart-ag.jpeg
 }
 
 </style>
-<div class="heading-center white-background" style="min-height: 400px;">
+<div class="heading-center white-background" style="min-height: 200px;">
   <div class="text">
-    <h1>Welcome</h1>
+    <h1 class="title is-2">Welcome</h1>
     The Sharing Farm Intelligence project.
 
     More than 10 researchers involved in developing solutions to improve agriculture and food production in the context of climate change and population growth. The project is funded by the <a href="https://www.nsf.gov/">NSF</a>.
   </div>
 </div>
 
-<div class="heading-center image-background" style="min-height: 400px; background-image: url('../assets/images/gallery/members.jpg');">
-  <div class="text">
-  <h1>Collaboration</h1>
+<div class="heading-center image-background" style="min-height: 200px; background-image: url('../assets/images/gallery/members.jpg');">
+  <div class="text" style="width: 40%;">
+  <h1 class="title is-2">Collaboration</h1>
     The partnership between a plant science center, a remote sensing lab, and a computer science department is a unique opportunity to develop innovative solutions in the field of agriculture.
   </div>
 </div>
@@ -57,8 +54,8 @@ image: assets/images/smart-ag.jpeg
   </video>
 </div>
 
-<div class="heading-center image-background" style="min-height: 400px; background-image: url('../assets/images/gallery/field.jpg'); color: black;">
-  <h1>Contact us</h1>
+<div class="heading-center image-background" style="min-height: 200px; background-image: url('../assets/images/gallery/field.jpg'); color: black;">
+  <h1 class="title is-2">Contact us</h1>
   We also collaborate with companies and other research centers to develop new solutions for agriculture. Please take a look at the source code related to this project on <a href="https://github.com/CPS-SmartFarm">GitHub</a>, and <a href="mailto:flavio.esposito@slu.edu">get in touch</a> if you are interested in collaborating with us.
 </div>
 
