@@ -19,12 +19,15 @@ image: assets/images/smart-ag.jpeg
   .text {
       padding: 9rem 4.5rem;
   }
+
   .section {
     padding: 0px;
   }
+
   .container {
     margin: 0 auto;
   }
+
   .text {
     margin-block-start: 1em;
     margin-block-end: 1em;
@@ -32,11 +35,12 @@ image: assets/images/smart-ag.jpeg
   }
 
   .image-background {
-  background-repeat: no-repeat;
-  background-size: cover;
-  padding: 0px; /* Adjust the padding as needed */
-  color: white; /* Text color for legibility */
-}
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 0px; /* Adjust the padding as needed */
+    color: white; /* Text color for legibility */
+  }
+
   .white-background {
     background-color: white;
     background-size: cover;
@@ -44,9 +48,9 @@ image: assets/images/smart-ag.jpeg
     color: black;
   }
 
-.video-background {
-  padding: 50px; /* Adjust the padding as needed */
-}
+  .video-background {
+    padding: 50px; /* Adjust the padding as needed */
+  }
 
 </style>
 <div class="heading-center white-background">
