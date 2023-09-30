@@ -6,18 +6,16 @@ hide_footer: false
 image: assets/images/smart-ag.jpeg
 ---
 <style>
-  @media screen and (min-width: 1024px)
   .container {
     max-width: none !important;
   }
-  @media screen and (min-width: 1024px)
+
   .navbar > .container .navbar-brand, .container > .navbar .navbar-brand {
     margin-left: 0.0rem;
   }
 
-  @media screen and (min-width: 769px), print
   .text {
-      padding: 9rem 4.5rem;
+    padding: 9rem 4.5rem;
   }
 
   .section {
