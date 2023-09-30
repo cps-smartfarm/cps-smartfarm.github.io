@@ -11,7 +11,7 @@ image: assets/images/smart-ag.jpeg
   }
 
   .navbar > .container .navbar-brand, .container > .navbar .navbar-brand {
-    margin-left: 0.0rem;
+    margin-left: 5%;
   }
 
   .text {
@@ -46,6 +46,7 @@ image: assets/images/smart-ag.jpeg
   }
 
   .video-background {
+    background-color: #188eac;
     padding: 50px; /* Adjust the padding as needed */
   }
 
