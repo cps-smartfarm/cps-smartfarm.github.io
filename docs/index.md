@@ -26,11 +26,6 @@ image: assets/images/smart-ag.jpeg
     margin: 0 auto;
   }
 
-  .text {
-    margin-block-start: 1em;
-    margin-block-end: 1em;
-  }
-
   .image-background {
     background-repeat: no-repeat;
     background-size: cover;
@@ -61,7 +56,7 @@ image: assets/images/smart-ag.jpeg
 </div>
 
 <div class="heading-center image-background" style="background-image: url('../assets/images/gallery/members2.jpg');">
-  <div class="text" style="width: 40%;">
+  <div class="text" style="width: 40%; color: white;">
   <h2 class="title is-2">Collaboration</h2>
     The partnership between a plant science center, a remote sensing lab, and a computer science department is a unique opportunity to develop innovative solutions in the field of agriculture.
   </div>
