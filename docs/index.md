@@ -40,7 +40,7 @@ image: assets/images/smart-ag.jpeg
     color: black;
   }
 
-  .video-background {
+  .background {
     background-color: #188eac;
     padding: 50px; /* Adjust the padding as needed */
   }
@@ -71,8 +71,15 @@ image: assets/images/smart-ag.jpeg
   </div>
 </div>
 
-<div class="video-background">
-  
+<div class="background">
+<div class="columns is-vcentered">
+    <div class="column is-half" style="padding-left: 25%; padding-right: 10%;">
+      <img src="../assets/images/slu.png" alt="Saint Louis University white logo">
+    </div>
+    <div class="column is-half" style="padding-right: 25%; padding-left: 10%;">
+      <img src="../assets/images/donald.png" alt="Donald Danforth Plant Center white logo">
+    </div>
+  </div>
 </div>
 
 <div class="heading-center image-background" style="background-image: url('../assets/images/gallery/members.jpg'); color: black;">
