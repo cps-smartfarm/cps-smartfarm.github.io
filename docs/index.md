@@ -29,7 +29,6 @@ image: assets/images/smart-ag.jpeg
   .text {
     margin-block-start: 1em;
     margin-block-end: 1em;
-    margin: 5%;
   }
 
   .image-background {
@@ -60,7 +59,7 @@ image: assets/images/smart-ag.jpeg
   </div>
 </div>
 
-<div class="heading-center image-background" style="background-image: url('../assets/images/gallery/members.jpg');">
+<div class="heading-center image-background" style="background-image: url('../assets/images/gallery/members2.jpg');">
   <div class="text" style="width: 40%;">
   <h2 class="title is-2">Collaboration</h2>
     The partnership between a plant science center, a remote sensing lab, and a computer science department is a unique opportunity to develop innovative solutions in the field of agriculture.
@@ -73,7 +72,7 @@ image: assets/images/smart-ag.jpeg
   </video>
 </div>
 
-<div class="heading-center image-background" style="background-image: url('../assets/images/gallery/field.jpg'); color: black;">
+<div class="heading-center image-background" style="background-image: url('../assets/images/gallery/members.jpg'); color: black;">
   <div class="text">
     <h2 class="title is-2">Contact us</h2>
     We also collaborate with companies and other research centers to develop new solutions for agriculture. Please take a look at the source code related to this project on <a href="https://github.com/CPS-SmartFarm">GitHub</a>, and <a href="mailto:flavio.esposito@slu.edu">get in touch</a> if you are interested in collaborating with us.
