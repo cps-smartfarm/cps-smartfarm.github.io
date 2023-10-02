@@ -71,16 +71,18 @@ image: assets/images/smart-ag.jpeg
 
 </style>
 <div class="heading-center white-background">
-  <div class="columns">
-    <div class="column is-two-thirds">
+  <div class="columns is-vcentered">
+    <div class="column is-half is-vcentered">
       <div class="text">
-        <h2 class="title is-3">Welcome</h2>
-        The Sharing Farm Intelligence project.
-
-        More than 10 researchers involved in developing solutions to improve agriculture and food production in the context of climate change and population growth. The project is funded by the <a href="https://www.nsf.gov/">NSF</a>.
+        <h2 class="title">Welcome</h2>
+        The era of data sharing is here, but scientists still struggle to share lessons learned from agricultural data collection and data processing. It's challenging, insecure, and time-consuming. This project aims to mitigate these challenges by bringing together experts in plant science, secure networked systems, software engineering, and geospatial science.
+        <br>
+        The team will develop a cyber-physical system to securely orchestrate data gathered using sensors, such as hyperspectral and thermal cameras, to collect imagery on soybean, sorghum, and other crops. Preprocessed plant datasets will be offered to scientists and farmers in different formats via a web-based system, ready to be processed by deep learning algorithms or consumed by thin clients.
+        <br>
+        Data collected from different crop farms will be used to train distributed deep learning systems using novel architectures that optimize privacy and training time. Such machine learning systems will be used to predict plant stress and detect pathogens. Finally, the cyber-physical system will integrate novel data processing software with existing NSF-funded hardware platforms, introducing novel algorithmic contributions in edge computing and giving feedback to farmers, closing the loop.
       </div>
     </div>
-    <div class="column is-one-third">
+    <div class="column is-half">
       <div class="video-container">
         <iframe width="100%" height="315" src="https://www.youtube.com/embed/99mV_EAidtk?si=G4p_7kq-oBPTMIJi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
       </div>
@@ -90,29 +92,27 @@ image: assets/images/smart-ag.jpeg
 
 <div class="heading-center image-background" style="background-image: url('../assets/images/gallery/members2.jpg'); background-size: cover;">
   <div class="text-highlight">
-  <h2 class="title is-3" style="color: white;">Collaboration</h2>
+  <h2 class="title" style="color: white;">Collaboration</h2>
     The partnership between a plant science center, a remote sensing lab, and a computer science department is a unique opportunity to develop innovative solutions in the field of agriculture.
   </div>
 </div>
 
 <div class="background">
   <div class="columns is-centered">
-    <div class="column is-half">
-      <div class="is-flex is-vcentered is-hcentered" style="padding: 0% 20%">
-        <img src="../assets/images/slu.png" alt="Saint Louis University white logo">
-      </div>
-    </div>
-    <div class="column is-half">
-      <div class="is-flex is-vcentered is-hcentered" style="padding: 0% 20%">
-        <img src="../assets/images/donald.png" alt="Donald Danforth Plant Center white logo">
+    <div class="column is-flex is-vcentered" style="justify-content: center;">
+      <div class="is-flex is-hcentered"> <!-- Center horizontally -->
+        <img style="max-height: 100px; margin: 20px;" src="../assets/images/slu.png" alt="Saint Louis University white logo"/>
+        <img style="max-height: 100px; margin: 20px;" src="../assets/images/donald.png" alt="Donald Danforth Plant Center white logo"/>
       </div>
     </div>
   </div>
 </div>
 
+
+
 <div class="heading-center image-background" style="background-image: url('../assets/images/gallery/members.jpg'); background-size: cover; color: black;">
   <div class="text">
-    <h2 class="title is-3">Contact us</h2>
+    <h2 class="title">Contact us</h2>
     We also collaborate with companies and other research centers to develop new solutions for agriculture. Please take a look at the source code related to this project on <a href="https://github.com/CPS-SmartFarm">GitHub</a>, and <a href="mailto:flavio.esposito@slu.edu">get in touch</a> if you are interested in collaborating with us.
   </div>
 </div>
