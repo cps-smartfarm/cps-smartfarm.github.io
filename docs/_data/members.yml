@@ -3,7 +3,10 @@
   site: https://www.linkedin.com/in/flavioesposito/
   email: flavio.esposito@slu.edu
   role: Lead PI, Associate Professor (Saint Louis University)
-  summary: Summary
+  summary: Flavio Esposito is an Associate Professor of Computer Science and a Fellow of the Research Institute at Saint Louis University. 
+          He received his PhD in Computer Science from Boston University, USA, and a MS in Telecommunications Engineering from the University 
+          of Florence, Italy. His research interests are Cyber-Physical Systems, in general, and Computer Networks, Edge Computing, and Applied 
+          Artificial Intelligence, in particular. 
 
 - picture: ../assets/images/profiles/nadia.jpeg
   name: Nadia Shakoor
@@ -46,6 +49,16 @@
   email: felipe.lopes@slu.edu
   role: Post-Doc (Saint Louis University), Assistant Professor (Federal Institute of Alagoas)
   summary: Felipe A. Lopes is an Assistant Professor at the Federal Institute of Alagoas, currently on leave to pursue postdoctoral research at Saint Louis University in collaboration with the Remote Sensing Laboratory. His work within the project focuses on researching Generative Adversarial Networks and their potential in shaping intelligent models for field crop monitoring.
+
+- picture: ../assets/images/profiles/elizabeth.png
+  name: Elizabeth Liri
+  site: https://www.cs.ucr.edu/~eliri001/
+  email: elizabeth.liri@email.ucr.edu
+  role: Post-Doc (Saint Louis University)
+  summary: Elizabeth Liri is currently a Post Doctoral Fellow - Cyber Physical Systems in the Computer Science department at Saint Louis University. 
+          She received her PhD in Computer Science from the University of California Riverside in 2023. Her research interests include networking, 
+          protocols, and the Internet of Things. She specializes in optimizing the balance between information demands and energy at the IoT device 
+          to enhance device longevity while ensuring adequate sensory data for applications.
 
 - picture: ../assets/images/profiles/marshall.jpeg
   name: Marshall Okafor
