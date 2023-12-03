@@ -20,4 +20,28 @@ image: /images/smart-ag.jpeg
       </div>
     </div>
   </div>
+  <div class="columns">
+    <div class="column is-one-third">
+      <div style="margin-right: 15%; ">
+        <img src="../assets/images/gallery/iscore2.png" style="max-width: 100%;" alt="Kid playing with the circuit boards">
+      </div>
+    </div>
+    <div class="column is-two-thirds">
+      <div class="text" style="margin-top: 150px; text-align: left; width: 90%;">
+        <p>In this inspiring scene, we witness the fusion of youthful curiosity and innovative technology. A group of eager children, are engrossed in hands-on learning with circuit boards and jumper cables. This is not just a lesson in computer electronics; it is a gateway to understanding the pivotal role of technology in agriculture. Their enthusiasm is a testament to the potential of integrating technology with traditional agricultural fields, ensuring a future where agriculture thrives through innovation and informed care. </p>
+      </div>
+    </div>
+  </div>
+  <div class="columns">
+    <div class="column is-two-thirds"  style="margin-top: 150px; text-align: right;">
+      <div class="text" style="margin-right: 50px;">
+        <p>Our motivation stems from a deep belief in empowering the next generation. By teaching them how technology intertwines with fields like agriculture, we are not only fostering their technical skills but also planting the seeds of sustainable farming practices and environmental stewardship.</p>
+      </div>
+    </div>
+    <div class="column is-one-third">
+      <div style="margin-right: 15%; ">
+        <img src="../assets/images/gallery/iscore3.png" style="max-width: 100%;" alt="Kids being shown soil moisture sensor">
+      </div>
+    </div>
+  </div>
 </div>
