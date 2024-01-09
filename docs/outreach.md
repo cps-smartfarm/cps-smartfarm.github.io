@@ -33,7 +33,7 @@ image: /images/smart-ag.jpeg
     </div>
   </div>
   <div class="columns">
-    <div class="column is-two-thirds"  style="margin-top: 150px; text-align: right;">
+    <div class="column is-two-thirds" style="margin-top: 150px; text-align: right;">
       <div class="text" style="margin-right: 50px;">
         <p>Our motivation stems from a deep belief in empowering the next generation. By teaching them how technology intertwines with fields like agriculture, we are not only fostering their technical skills but also planting the seeds of sustainable farming practices and environmental stewardship.</p>
       </div>
@@ -42,6 +42,23 @@ image: /images/smart-ag.jpeg
       <div style="margin-right: 15%; ">
         <img src="../assets/images/gallery/iscore3.png" style="max-width: 100%;" alt="Kids being shown soil moisture sensor">
       </div>
+    </div>
+  </div>
+  <div class="new-columns" style="display: flex; flex-direction: column; margin: auto; width: 100%;">
+      <p>Professor Esposito engages the kids in discussing the relevance of computer technology in precision agriculture. He shows them how to set up a demo circuit board. The kids were excited to learn new cool things about computing and they had things to say as shown in the picture at the bottom-left.</p>
+      <div class="img-gallery" style="display: flex; flex-direction: row; justify-content: center; flex-wrap: wrap; width: 100%;">
+        <div style="flex: 0 0 50%; padding: 5px;">
+          <img src="../assets/images/gallery/flavio.png" alt="Kids being shown soil moisture sensor" style="width: 100%; height: 100%;">
+        </div>
+        <div style="flex: 0 0 50%; padding: 5px;">
+          <img src="../assets/images/gallery/flavio_2.png" alt="Kids being shown soil moisture sensor" style="width: 100%; height: 100%;">
+        </div>
+        <div style="flex: 0 0 50%; padding: 5px;">
+          <img src="../assets/images/gallery/flavio_3.png" alt="Kids being shown soil moisture sensor" style="width: 100%; height: 75%;">
+        </div>
+        <div style="flex: 0 0 50%; padding: 5px;">
+          <img src="../assets/images/gallery/ahbinav.png" alt="Kids being shown soil moisture sensor" style="width: 100%; height: 75%;">
+        </div>
     </div>
   </div>
 </div>
