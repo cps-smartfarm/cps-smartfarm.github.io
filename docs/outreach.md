@@ -48,16 +48,16 @@ image: /images/smart-ag.jpeg
       <p>Professor Esposito engages the kids in discussing the relevance of computer technology in precision agriculture. He shows them how to set up a demo circuit board. The kids were excited to learn new cool things about computing and they had things to say as shown in the picture at the bottom-left.</p>
       <div class="img-gallery" style="display: flex; flex-direction: row; justify-content: center; flex-wrap: wrap; width: 100%;">
         <div style="flex: 0 0 50%; padding: 5px;">
-          <img src="../assets/images/gallery/flavio.png" alt="Kids being shown soil moisture sensor" style="width: 100%; height: 100%;">
+          <img src="../assets/images/gallery/flavio.png" alt="Kids being assemble a circuit" style="width: 100%; height: 100%;">
         </div>
         <div style="flex: 0 0 50%; padding: 5px;">
-          <img src="../assets/images/gallery/flavio_2.png" alt="Kids being shown soil moisture sensor" style="width: 100%; height: 100%;">
+          <img src="../assets/images/gallery/flavio_2.png" alt="Professor Esposito talking to kids" style="width: 100%; height: 100%;">
         </div>
         <div style="flex: 0 0 50%; padding: 5px;">
-          <img src="../assets/images/gallery/flavio_3.png" alt="Kids being shown soil moisture sensor" style="width: 100%; height: 75%;">
+          <img src="../assets/images/gallery/flavio_3.png" alt="Professor Esposito talking to kids" style="width: 100%; height: 75%;">
         </div>
         <div style="flex: 0 0 50%; padding: 5px;">
-          <img src="../assets/images/gallery/ahbinav.png" alt="Kids being shown soil moisture sensor" style="width: 100%; height: 75%;">
+          <img src="../assets/images/gallery/ahbinav.png" alt="A kid asking a question" style="width: 100%; height: 75%;">
         </div>
     </div>
   </div>
