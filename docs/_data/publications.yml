@@ -1,6 +1,10 @@
+- citation: "Muhammad Zawish, Paul Albert, Flavio Esposito, Steven Davy, and Lizy Abraham. Energy-Efficient Uncertainty-Aware Biomass Composition Prediction at the Edge. 
+              In proc. of 5th IEEE/CVF CVPR Workshop on Vision for Agriculture (V4A). Seattle, WA. June 17th-June 24th, 2024." 
+  year: 2024
+
 - citation: "Sourav Bhadra, Vasit Sagan, Supria Sarkar, Maxwell Braud, Todd C. Mockler, Andrea L. Eveland. PROSAIL-Net: A transfer
-            learning-based dual stream neural network to estimate leaf chlorophyll and leaf angle of crops from UAV hyperspectral images. 
-            ISPRS Journal of Photogrammetry and Remote Sensing, Volume 210, 2024, Pages 1-24, ISSN 0924-2716, <a href='https://doi.org/10.1016/j.isprsjprs.2024.02.020'>DOI</a>."
+          learning-based dual stream neural network to estimate leaf chlorophyll and leaf angle of crops from UAV hyperspectral images. 
+          ISPRS Journal of Photogrammetry and Remote Sensing, Volume 210, 2024, Pages 1-24, ISSN 0924-2716, <a href='https://doi.org/10.1016/j.isprsjprs.2024.02.020'>DOI</a>."
   year: 2024
 
 - citation: "Nurzaman Ahmed, Flavio Esposito, and Nadia Shakoor. Bridging IoT Education Through Activities: A 

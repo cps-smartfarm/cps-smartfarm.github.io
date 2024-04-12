@@ -1,0 +1,21 @@
+/* styles.css */
+.members-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .member {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 20px; /* Add spacing between members */
+  }
+  
+  .profile-image {
+    width: 100px;
+    margin-right: 20px;
+  }
+  
+  .member-info {
+    flex: 1;
+  }
+   

@@ -1,0 +1,111 @@
+<style>
+  .container {
+    max-width: none !important;
+  }
+
+  .navbar > .container .navbar-brand, .container > .navbar .navbar-brand {
+    margin-left: 5%;
+  }
+
+  .text {
+    padding: 9rem 4.5rem;
+  }
+
+    /* Default styles for all screen sizes */
+  .text-highlight {
+    padding: 9rem 4.5rem;
+    width: 40%; /* Relative width for larger screens */
+    min-width: 200px; /* Minimum width to prevent excessive narrowing */
+  }
+
+  /* Apply styles for screens with a maximum width of 768px (adjust the value as needed) */
+  @media (max-width: 768px) {
+    .text-highlight {
+      padding: 9rem 4.5rem;
+      width: 100%; /* Use full width on smaller screens */
+      min-width: auto; /* Remove minimum width */
+    }
+  }
+
+  .section {
+    padding: 0px;
+  }
+
+  .container {
+    margin: 0 auto;
+  }
+
+  .image-background {
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 0px; /* Adjust the padding as needed */
+    color: white; /* Text color for legibility */
+  }
+
+  .white-background {
+    background-color: white;
+    background-size: cover;
+    padding: 0px; /* Adjust the padding as needed */
+    color: black;
+  }
+
+  .background {
+    background-color: #188eac;
+    padding: 50px; /* Adjust the padding as needed */
+  }
+
+/* Apply styles for screens with a minimum width of 1200px (adjust the value as needed) */
+@media (min-width: 1200px) {
+  .video-container {
+    margin-right: 15%; 
+    padding-top: 3rem; 
+    padding-bottom: 3rem;  }
+}
+
+</style>
+
+<div class="heading-center white-background">
+  <div class="columns is-vcentered">
+    <div class="column is-half is-vcentered">
+      <div class="text">
+        <h2 class="title">Welcome</h2>
+        The era of data sharing is here, but scientists still struggle to share lessons learned from agricultural data collection and data processing. It's challenging, insecure, and time-consuming. This project aims to mitigate these challenges by bringing together experts in plant science, secure networked systems, software engineering, and geospatial science.
+        <br />
+        The team will develop a cyber-physical system to securely orchestrate data gathered using sensors, such as hyperspectral and thermal cameras, to collect imagery on soybean, sorghum, and other crops. Preprocessed plant datasets will be offered to scientists and farmers in different formats via a web-based system, ready to be processed by deep learning algorithms or consumed by thin clients.
+        <br />
+        Data collected from different crop farms will be used to train distributed deep learning systems using novel architectures that optimize privacy and training time. Such machine learning systems will be used to predict plant stress and detect pathogens. Finally, the cyber-physical system will integrate novel data processing software with existing NSF-funded hardware platforms, introducing novel algorithmic contributions in edge computing and giving feedback to farmers, closing the loop.
+      </div>
+    </div>
+    <div class="column is-half">
+      <div class="video-container">
+        <iframe width="100%" height="315" src="https://www.youtube.com/embed/99mV_EAidtk?si=G4p_7kq-oBPTMIJi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="heading-center image-background" style="background-image: url('../assets/images/gallery/members2.jpg'); background-size: cover;">
+  <div class="text-highlight">
+  <h2 class="title" style="color: white;">Collaboration</h2>
+    The partnership between a plant science center, a remote sensing lab, and a computer science department is a unique opportunity to develop innovative solutions in the field of agriculture.
+  </div>
+</div>
+
+<div class="background">
+  <div class="columns is-centered">
+    <div class="column is-flex is-vcentered" style="justify-content: center;">
+      <div class="is-flex is-hcentered"> <!-- Center horizontally -->
+        <img style="max-height: 100px; margin: 20px;" src="../assets/images/slu.png" alt="Saint Louis University white logo" />
+        <img style="max-height: 100px; margin: 20px;" src="../assets/images/donald.png" alt="Donald Danforth Plant Center white logo" />
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="heading-center image-background" style="background-image: url('../assets/images/gallery/members.jpg'); background-size: cover; color: black;">
+  <div class="text">
+    <h2 class="title">Contact us</h2>
+    We also collaborate with companies and other research centers to develop new solutions for agriculture. Please take a look at the source code related to this project on <a href="https://github.com/CPS-SmartFarm">GitHub</a>, and <a href="mailto:flavio.esposito@slu.edu">get in touch</a> if you are interested in collaborating with us.
+  </div>
+</div>
+
