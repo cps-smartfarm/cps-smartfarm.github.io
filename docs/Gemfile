@@ -35,3 +35,5 @@ gem "bulma-clean-theme", "~> 0.13"
 
 
 gem "webrick", "~> 1.8"
+
+gem "faraday-retry", "~> 2.2"

@@ -47,31 +47,33 @@
   name: Felipe A. Lopes
   site: http://felipealencar.github.io
   email: felipe.lopes@slu.edu
-  role: Post-Doc (Saint Louis University), Assistant Professor (Federal Institute of Alagoas)
+  role: Post Doctoral Researcher (Saint Louis University)
   summary: Felipe A. Lopes is an Assistant Professor at the Federal Institute of Alagoas, currently on leave to pursue postdoctoral research at Saint Louis University in collaboration with the Remote Sensing Laboratory. His work within the project focuses on researching Generative Adversarial Networks and their potential in shaping intelligent models for field crop monitoring.
 
 - picture: ../assets/images/profiles/elizabeth.png
   name: Elizabeth Liri
   site: https://www.cs.ucr.edu/~eliri001/
   email: elizabeth.liri@email.ucr.edu
-  role: Post-Doc (Saint Louis University)
-  summary: Elizabeth Liri is currently a Post Doctoral Fellow - Cyber Physical Systems in the Computer Science department at Saint Louis University. 
+  role: Alumni (now at MIT Lincoln Lab., Boston, MA)
+  summary: Elizabeth Liri was a Post Doctoral Fellow - Cyber Physical Systems in the Computer Science department at Saint Louis University. 
           She received her PhD in Computer Science from the University of California Riverside in 2023. Her research interests include networking, 
           protocols, and the Internet of Things. She specializes in optimizing the balance between information demands and energy at the IoT device 
-          to enhance device longevity while ensuring adequate sensory data for applications.
+          to enhance device longevity while ensuring adequate sensory data for applications. She is currently working in MIT Lincoln Lab., Boston, MA.
 
 - picture: ../assets/images/profiles/marshall.jpeg
   name: Marshall Okafor
   site: http://test.dev
   email: okwudilichukwu.okafor@slu.edu
   role: PhD Student (Saint Louis University)
-  summary: Marshall is currently a PhD student in the Computer Science Department at Saint Louis University, Missouri United States. He is a 2021 GlobalGraduate Scholar at Saint Louis University (SLU). His research interests include Software development, computer programming, IoT, Machine Learning and Cloud technologies. Marshall is part of the backend software engineering team working on building the wireless sensor network. 
+  summary: Marshall is currently a PhD student in the Computer Science Department at Saint Louis University, Missouri United States. He is a 2021 
+          GlobalGraduate Scholar at Saint Louis University (SLU). His research interests include Software development, computer programming, IoT, 
+          Machine Learning and Cloud technologies. Marshall is part of the backend software engineering team working on building the wireless sensor 
+          network. 
 
 - picture: ../assets/images/profiles/chenxi.jpeg
   name: Chenxi Li
   site: https://www.linkedin.com/in/chenxi-li-b214521b9/
   email: chenxi.li@slu.edu
-  role: Collaborator
-  summary: I am mainly responsible for researching network security and attacks.
-
+  role: PhD Student (Saint Louis University)
+  summary: Chenxi is currently a PhD student. He works with the team responsible for researching network security and attacks.
 

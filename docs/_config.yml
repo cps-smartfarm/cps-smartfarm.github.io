@@ -31,7 +31,7 @@ github_username:  sharingfarmintelligence
 nsf_logo: /assets/images/nsf.png
 
 # Build settings
-remote_theme: chrisrhymes/bulma-clean-theme
+remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
 plugins:
   - jekyll-sitemap
   - jekyll-paginate
