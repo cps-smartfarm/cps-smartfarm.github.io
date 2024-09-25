@@ -12,7 +12,7 @@ image: /images/smart-ag.jpeg
   <li>{{ year_group.name }}</li>
   <ul>
     {% for publication in year_group.items %}
-      <li>{{ publication.citation }}</li>
+      <li class="publication">{{ publication.citation }}</li>
     {% endfor %}
   </ul>
 {% endfor %}
