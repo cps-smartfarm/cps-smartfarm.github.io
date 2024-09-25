@@ -3080,3 +3080,8 @@ div.highlight { margin-bottom: 1rem; }
 .navbar > .container .navbar-brand, .container > .navbar .navbar-brand {
     margin-left: 2.3%;
   }
+
+.publication {
+    padding-bottom: 1%;
+  }
+  
