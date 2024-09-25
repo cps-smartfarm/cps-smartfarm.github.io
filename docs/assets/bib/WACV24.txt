@@ -1,0 +1,8 @@
+@inproceedings{lopes2024plantplotgan,
+  title={PlantPlotGAN: A Physics-Informed Generative Adversarial Network for Plant Disease Prediction},
+  author={Lopes, Felipe A and Sagan, Vasit and Esposito, Flavio},
+  booktitle={2024 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+  pages={7051--7060},
+  year={2024},
+  organization={IEEE}
+}

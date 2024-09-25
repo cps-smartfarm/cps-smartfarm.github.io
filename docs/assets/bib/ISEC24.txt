@@ -1,0 +1,32 @@
+@INPROCEEDINGS{Ahme2403:Bridging,
+AUTHOR="Nurzaman Ahmed and Flavio Esposito and Nadia Shakoor",
+TITLE="Bridging {IoT} Education Through Activities: A {Game-Oriented} Approach
+with Real-time Data Visualization",
+BOOKTITLE="2024 IEEE Integrated STEM Education Conference (ISEC) (ISEC'24)",
+ADDRESS="Princeton, USA",
+PAGES=6,
+DAYS=9,
+MONTH=mar,
+YEAR=2024,
+ABSTRACT="The rapid evolution of the Internet of Things (IoT) has underscored the
+importance of comprehensive educational strategies to impart IoT concepts
+and applications to a diverse audience. Given IoT's pervasive impact, there
+is hence a pressing need for effective education in this area. Currently,
+there is a significant gap between existing educational strategies for IoT
+and the dynamic, engaging approaches needed to captivate a diverse
+audience, particularly young learners. The challenge lies in developing a
+methodology that not only educates but also motivates students e.g., from
+Grade 2 to Grade 12. To address this need, we developed an innovative,
+activity-based educational framework, integrating interactive and immersive
+learning methods, aimed at simplifying complex IoT concepts with smart
+agricultural application in mind for early learners. We outline this novel
+pedagogical approach, detailing how specific IoT components are taught
+through targeted activities. The paper should serve as a guide for
+educators to implement this framework and encourage readers to recognize
+the importance of adopting new teaching strategies for IoT. Through the
+implementation of this framework, exemplified in a case study of a plant
+care game, we have observed an increased engagement and understanding of
+IoT concepts among our target students. These findings indicate the
+effectiveness of our approach in real-world educational settings."
+}
+

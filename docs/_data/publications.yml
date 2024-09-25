@@ -13,11 +13,11 @@
 
 - citation: "Nurzaman Ahmed, Flavio Esposito, and Nadia Shakoor. Bridging IoT Education Through Activities: A 
               Game-Oriented Approach with Real-time Data Visualization. In Proc. of IEEE Integrated STEM Education 
-              Conference 2024. Princeton, NJ. March 9th, 2024. <a href='https://ieeexplore.ieee.org/document/10665136'>DOI</a> - <a class='bibtex' href='https://cs.slu.edu/~espositof/research/bib/ISEC24.txt'>Bibtex</a>"
+              Conference 2024. Princeton, NJ. March 9th, 2024. <a href='https://ieeexplore.ieee.org/document/10665136'>DOI</a> - <a class='bibtex' href='/assets/bib/ISEC24.txt'>Bibtex</a>"
   year: 2024
 
 - citation: "Lopes, F. A., Esposito, F., Sagan, V. PlantPlotGAN: A Physics-Informed Generative Adversarial Network for Plant Disease Prediction.
-              IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2024. <a class='bibtex' href='https://cs.slu.edu/~espositof/research/bib/WACV23.txt'>Bibtex</a>"
+              IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2024. <a class='bibtex' href='/assets/bib/WACV24.txt'>Bibtex</a>"
   year: 2024
 
 - citation: "Yang, D., Kumar, A., Ray, S., Wang, W., Tourani, R., IoT Sentinel: 
