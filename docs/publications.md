@@ -47,7 +47,16 @@ image: /images/smart-ag.jpeg
   </div>
   <span class="lightbox-close" id="lightbox-close">&times;</span>
 </div>
-
+<ul>
+{% for year_group in publications_by_year %}
+  <li>{{ year_group.name }}</li>
+  <ul>
+    {% for publication in year_group.items %}
+      <li class="publication">{{ publication.citation }}</li>
+    {% endfor %}
+  </ul>
+{% endfor %}
+</ul>
 <script>
   // Function to fetch and display BibTeX content
   function fetchBibTeXContent(url) {
@@ -93,13 +102,3 @@ image: /images/smart-ag.jpeg
   });
 </script>
 
-<ul>
-{% for year_group in publications_by_year %}
-  <li>{{ year_group.name }}</li>
-  <ul>
-    {% for publication in year_group.items %}
-      <li class="publication">{{ publication.citation }}</li>
-    {% endfor %}
-  </ul>
-{% endfor %}
-</ul>
