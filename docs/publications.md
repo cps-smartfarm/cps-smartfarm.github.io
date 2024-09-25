@@ -85,7 +85,7 @@ image: /images/smart-ag.jpeg
 
       // Fetch the BibTeX content from the external URL
       const bibtexUrl = this.getAttribute('href');
-      console.log(bibtexUrl);
+      console.log('only the url after here...'+bibtexUrl);
       fetchBibTeXContent(bibtexUrl);
     });
   });
