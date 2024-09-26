@@ -1,5 +1,10 @@
+- citation: "Chiara Camerota, Lorenzo Pappone, Tommaso Pecorella, and Flavio Esposito. Addressing data security in IoT: minimum sample size and denoising diffusion models for improved malware detection. 
+ In Proc. of in Proceedings of the 2024 20th International Conference on Network and Service Management (CNSM 2024), Prague, Czech Republic, Oct. 2024. (to appear)"
+  year: 2024
+
+
 - citation: "Xu Tao, Jackson Butcher, Simone Silvestri, and Flavio Esposito. iCrop: Enabling High-Precision Crop Disease Detection via LoRa Technology. 
- In Proc. of The 33rd IEEE International Conference on Computer Communications and Networks (ICCCN 2024) July 29 - 31, 2024, Big Island, Hawaii, USA (invited paper). <a href='https://ieeexplore-ieee-org.ezp.slu.edu/document/10637527'>DOI</a>"
+ In Proc. of The 33rd IEEE International Conference on Computer Communications and Networks (ICCCN 2024) July 29 - 31, 2024, Big Island, Hawaii, USA (invited paper). <a href='https://ieeexplore.ieee.org/document/10637527'>DOI</a>"
   year: 2024
 
 - citation: "Muhammad Zawish, Paul Albert, Flavio Esposito, Steven Davy, and Lizy Abraham. Energy-Efficient Uncertainty-Aware Biomass Composition Prediction at the Edge. 
