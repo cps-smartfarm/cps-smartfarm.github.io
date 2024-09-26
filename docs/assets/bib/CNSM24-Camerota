@@ -1,0 +1,31 @@
+@INPROCEEDINGS{CNSM24-Camerota,
+AUTHOR="Chiara Camerota and Lorenzo Pappone and Tommaso Pecorella and Flavio
+Esposito",
+TITLE="Addressing Data Security in {IoT:} Minimum Sample Size and Denoising
+Diffusion Models for Improved Malware Detection",
+BOOKTITLE="2024 20th International Conference on Network and Service Management (CNSM)
+(CNSM 2024)",
+ADDRESS="Prague, Czech Republic",
+PAGES="8.88",
+DAYS=27,
+MONTH=oct,
+YEAR=2024,
+KEYWORDS="malware detection; deep learning; data augmentation",
+ABSTRACT="Machine learning (ML) has emerged as a compelling approach to identify
+attacks in network traffic security. 
+Existing malware detection strategies often concentrate on specific facets,
+such as efficient data collection, particular types of malware, or handling
+data scarcity. While valid, these strategies typically overlook the
+potential for minimizing sample size, focusing instead on data
+augmentation. This work introduces a novel method to determine the minimum
+sample size necessary to achieve a specified accuracy level, measured by
+the F1 score derived from the confusion matrix. We focus on TCP header
+traffic data transformed into images through flow-splitting techniques for
+multi-class traffic classification. In addition, we introduce a diffusion
+model to generate new synthetic traffic images and show that our method
+outperforms existing techniques in terms of stability and predictability.
+This study also compares the effectiveness of synthetic image augmentation
+using Generative Adversarial Networks (GANs) and Denoising Diffusion
+Probabilistic Models (DDPM) in improving image recognition and
+classification accuracy."
+}
