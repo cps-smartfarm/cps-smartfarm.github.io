@@ -1,0 +1,37 @@
+@INPROCEEDINGS{Liri2409:Sensing,
+AUTHOR="Elizabeth Liri and K. K. Ramakrishnan and Koushik Kar and Flavio Esposito",
+TITLE="Sensing Together: Cooperative Task Adaptation and Scheduling for {IoT-Nets}
+using Renewable Energy",
+BOOKTITLE="2024 IEEE 21st International Conference on Mobile Ad Hoc and Smart Systems
+(MASS) (IEEE MASS 2024)",
+ADDRESS="Seoul, Korea (South)",
+PAGES="8.93",
+DAYS=22,
+MONTH=sep,
+YEAR=2024,
+KEYWORDS="multi-sensor IoT; distributed scheduler; energy efficiency; task
+adaptation; cooperative sensing",
+ABSTRACT={IoT devices used in various applications, such as monitoring agricultural
+soil moisture, or urban air quality as- sessment, are typically
+battery-operated and energy-constrained. We develop a lightweight and
+distributed cooperative sensing scheme that provides energy-efficient
+sensing of an area by reducing spatio-temporal overlaps in the coverage
+using a multi- sensor IoT network. Our {"}Sensing Together{"} solution
+includes two algorithms: Distributed Task Adaptation (DTA) and Dis-
+tributed Block Scheduler (DBS), which coordinate the sensing operations of
+the IoT network through information shared using a distributed {"}token
+passing{"} protocol. DTA adapts the sensing rates from their {"}raw{"}
+values (optimized for each IoT device independently) to minimize spatial
+redundancy in coverage, while ensuring that a desired coverage threshold is
+met at all points in the covered area. DBS then schedules task execution
+times across all IoT devices in a distributed manner to minimize temporal
+overlap. On-device evaluation shows a small token size and execution times
+of less than 0.6s on average while simulations show average energy savings
+of 5\% per IoT device under various weather conditions. Moreover, when
+devices had more significant coverage overlaps, energy savings exceeded
+30\% thanks to cooperative sensing. In simulations of larger networks,
+energy savings range on average between 3.34\% and 38.53\%, depending on
+weather conditions. Our solutions consistently demonstrate near-optimal
+performance under various scenarios, showcasing their capability to
+efficiently reduce temporal overlap during sensing task scheduling.}
+}
