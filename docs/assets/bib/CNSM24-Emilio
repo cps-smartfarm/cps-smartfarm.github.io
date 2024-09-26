@@ -1,1 +1,31 @@
-test
+@INPROCEEDINGS{CNSM24-Paolini,
+AUTHOR="Emilio Paolini and Andrea Pinto and Luca Valcarenghi and Nicola Andriolli
+and Luca Maggiani and Flavio Esposito",
+TITLE="Efficient Distributed Learning Over Lossy Wireless Networks",
+BOOKTITLE="2024 20th International Conference on Network and Service Management (CNSM)
+(CNSM 2024)",
+ADDRESS="Prague, Czech Republic",
+PAGES=7,
+DAYS=27,
+MONTH=oct,
+YEAR=2024,
+ABSTRACT="In the context of NextG Wireless Networks, addressing the challenges of
+reliability of wireless communication links is paramount to ensure
+efficient Distributed Learning systems. However, many recent solutions have
+overlooked key challenges, such as packet-level losses and the impact of
+TCP retransmission, that are crucial for the robustness of these systems.
+In this paper, we propose the integration of fountain codes into the
+distributed learning process to offer a robust mechanism to counteract
+packet loss. Specifically, we propose a cumulative strategy logic based on
+fountain codes specifically tailored for packet exchanges in Distributed
+Learning applications. Our evaluation shows that fountain codes
+significantly enhance the efficiency and reliability of distributed
+learning model updates under conditions of high packet loss, e.g., a packet
+reduction of ≈ 84\% (≈ 60\% at the UE (gNB) side compared to
+traditional TCP methods when packet loss probability reaches 0.9 in
+Federated Learning scenarios. However, under low packet loss scenarios,
+fountain codes computational overhead becomes non-negligible.These results
+highlight the potential of fountain codes to serve as a robust alternative
+to conventional communication protocols in distributed learning systems,
+particularly in environments characterized by unstable network conditions."
+}
