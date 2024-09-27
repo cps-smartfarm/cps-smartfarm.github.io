@@ -1,0 +1,13 @@
+@Article{rs16091584,
+AUTHOR = {Sagan, Vasit and Coral, Roberto and Bhadra, Sourav and Alifu, Haireti and Al Akkad, Omar and Giri, Aviskar and Esposito, Flavio},
+TITLE = {Hyperfidelis: A Software Toolkit to Empower Precision Agriculture with GeoAI},
+JOURNAL = {Remote Sensing},
+VOLUME = {16},
+YEAR = {2024},
+NUMBER = {9},
+ARTICLE-NUMBER = {1584},
+URL = {https://www.mdpi.com/2072-4292/16/9/1584},
+ISSN = {2072-4292},
+ABSTRACT = {The potential of artificial intelligence (AI) and machine learning (ML) in agriculture for improving crop yields and reducing the use of water, fertilizers, and pesticides remains a challenge. The goal of this work was to introduce Hyperfidelis, a geospatial software package that provides a comprehensive workflow that includes imagery visualization, feature extraction, zonal statistics, and modeling of key agricultural traits including chlorophyll content, yield, and leaf area index in a ML framework that can be used to improve food security. The platform combines a user-friendly graphical user interface with cutting-edge machine learning techniques, bridging the gap between plant science, agronomy, remote sensing, and data science without requiring users to possess any coding knowledge. Hyperfidelis offers several data engineering and machine learning algorithms that can be employed without scripting, which will prove essential in the plant science community.},
+DOI = {10.3390/rs16091584}
+}
