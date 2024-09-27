@@ -19,7 +19,7 @@
   year: 2024
 
 - citation: "Sagan V, Coral R, Bhadra S, Alifu H, Al Akkad O, Giri A, Esposito F. Hyperfidelis: A Software Toolkit to Empower Precision Agriculture with GeoAI. Remote Sensing. 2024 Apr 29;16(9):1584. 
-             <a href='https://doi.org/10.3390/rs16091584'>DOI</a> - <a href='/assets/bib/HYPER.txt'>Bibtex</a>"
+             <a href='https://doi.org/10.3390/rs16091584'>DOI</a> - <a  class='bibtex' href='/assets/bib/HYPER.txt'>Bibtex</a>"
   year: 2024
 
 - citation: "Sourav Bhadra, Vasit Sagan, Supria Sarkar, Maxwell Braud, Todd C. Mockler, Andrea L. Eveland. PROSAIL-Net: A transfer
