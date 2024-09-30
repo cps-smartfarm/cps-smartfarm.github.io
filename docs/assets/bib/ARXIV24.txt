@@ -1,0 +1,6 @@
+@article{li2024unveiling,
+  title={Unveiling the Unseen: Exploring Whitebox Membership Inference through the Lens of Explainability},
+  author={Li, Chenxi and Kumar, Abhinav and Guo, Zhen and Hou, Jie and Tourani, Reza},
+  journal={arXiv preprint arXiv:2407.01306},
+  year={2024}
+}
