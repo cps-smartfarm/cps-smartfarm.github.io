@@ -15,7 +15,7 @@
   year: 2024
 
 - citation: "Sariboz, Emrah, Reza Tourani, Roopa Vishwanathan, and Satyajayant Misra. PEPPER: Privacy-prEserving, auditable, and fair Payment based resource discovery at the PERvasive edge.
-  In Proceedings of the 19th ACM Asia Conference on Computer and Communications Security, pp. 1447-1462. 2024. <a class='bibtex' href='/assets/bib/ACCCS2.txt>Bibtex</a>"
+  In Proceedings of the 19th ACM Asia Conference on Computer and Communications Security, pp. 1447-1462. 2024. <a class='bibtex' href='/assets/bib/ACCCS2.txt'>Bibtex</a>"
   year: 2024
 
 - citation: "Li C, Kumar A, Guo Z, Hou J, Tourani R. Unveiling the Unseen: Exploring Whitebox Membership Inference through the Lens of Explainability. 
@@ -23,13 +23,13 @@
   year: 2024
 
 - citation: "Kumar, A., Aguilera, M.A.G., Tourani, R. and Misra, S., 2024, July. A Generative Framework for Low-Cost Result Validation of Machine Learning-as-a-Service Inference. 
-  In Proceedings of the 19th ACM Asia Conference on Computer and Communications Security (pp. 1246-1260). <a class='bibtex' href='/assets/bib/ACCCS.txt>Bibtex</a>"
+  In Proceedings of the 19th ACM Asia Conference on Computer and Communications Security (pp. 1246-1260). <a class='bibtex' href='/assets/bib/ACCCS.txt'>Bibtex</a>"
   year: 2024
 
 - citation: "Muhammad Zawish, Paul Albert, Flavio Esposito, Steven Davy, and Lizy Abraham. Energy-Efficient Uncertainty-Aware Biomass Composition Prediction at the Edge. 
               In proc. of 5th IEEE/CVF CVPR Workshop on Vision for Agriculture (V4A). Seattle, WA. June 17th-June 24th, 2024. 
               <a href='https://doi.org/10.1109/CVPRW.2024.10678563'>DOI</a> 
-              <a class='bibtex' href='/assets/bib/zawish2024biomass.txt>Bibtex</a>
+              <a class='bibtex' href='/assets/bib/zawish2024biomass.txt'>Bibtex</a>
 " 
   year: 2024
 
