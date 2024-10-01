@@ -27,7 +27,8 @@
   year: 2024
 
 - citation: "Muhammad Zawish, Paul Albert, Flavio Esposito, Steven Davy, and Lizy Abraham. Energy-Efficient Uncertainty-Aware Biomass Composition Prediction at the Edge. 
-              In proc. of 5th IEEE/CVF CVPR Workshop on Vision for Agriculture (V4A). Seattle, WA. June 17th-June 24th, 2024." 
+              In proc. of 5th IEEE/CVF CVPR Workshop on Vision for Agriculture (V4A). Seattle, WA. June 17th-June 24th, 2024. <a href='https://doi.org/10.1109/CVPRW.2024.10678563'>DOI</a>
+" 
   year: 2024
 
 - citation: "Sagan V, Coral R, Bhadra S, Alifu H, Al Akkad O, Giri A, Esposito F. Hyperfidelis: A Software Toolkit to Empower Precision Agriculture with GeoAI. Remote Sensing. 2024 Apr 29;16(9):1584. 
