@@ -27,7 +27,9 @@
   year: 2024
 
 - citation: "Muhammad Zawish, Paul Albert, Flavio Esposito, Steven Davy, and Lizy Abraham. Energy-Efficient Uncertainty-Aware Biomass Composition Prediction at the Edge. 
-              In proc. of 5th IEEE/CVF CVPR Workshop on Vision for Agriculture (V4A). Seattle, WA. June 17th-June 24th, 2024. <a href='https://doi.org/10.1109/CVPRW.2024.10678563'>DOI</a>
+              In proc. of 5th IEEE/CVF CVPR Workshop on Vision for Agriculture (V4A). Seattle, WA. June 17th-June 24th, 2024. 
+              <a href='https://doi.org/10.1109/CVPRW.2024.10678563'>DOI</a> 
+              <a class='bibtex' href='/assets/bib/zawish2024biomass.txt>Bibtex</a>
 " 
   year: 2024
 
