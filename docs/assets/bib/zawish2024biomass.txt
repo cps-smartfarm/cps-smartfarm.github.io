@@ -1,0 +1,9 @@
+@inproceedings{zawish2024biomass,
+  author    = {Muhammad Zawish and Paul Albert and Flavio Esposito and Steven Davy and Lizy Abraham},
+  title     = {Energy-Efficient Uncertainty-Aware Biomass Composition Prediction at the Edge},
+  booktitle = {Proceedings of the 5th IEEE/CVF CVPR Workshop on Vision for Agriculture (V4A)},
+  address   = {Seattle, WA, USA},
+  month     = {June 17--24},
+  doi       = {10.1109/CVPRW.2024.10678563},
+  year      = {2024}
+}
