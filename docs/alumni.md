@@ -3,7 +3,7 @@ layout: page
 title: Alumni
 subtitle: These are the alumni of the project
 permalink: /alumni/
-image: ../assets/images/gallery/members3.jpg
+image: ../assets/images/gallery/members.jpg
 
 ---
 
