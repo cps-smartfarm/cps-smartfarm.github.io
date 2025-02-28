@@ -1,5 +1,5 @@
 /* styles.css */
-.members-list {
+.alumni-list {
     list-style: none;
     padding: 0;
   }
@@ -7,7 +7,7 @@
   .member {
     display: flex;
     align-items: flex-start;
-    margin-bottom: 20px; /* Add spacing between members */
+    margin-bottom: 20px; /* Add spacing between alumni */
   }
   
   .profile-image {
