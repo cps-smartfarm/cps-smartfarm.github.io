@@ -1,28 +1,21 @@
+/* styles.css */
 .alumni-list {
-  list-style-type: none;
-  padding: 0;
-}
-
-.alumni {
-  display: flex;
-  align-items: center;
-  margin-bottom: 20px;
-}
-
-.profile-image {
-  border-radius: 50%;
-  margin-right: 20px;
-}
-
-.alumni-info {
-  max-width: 600px;
-}
-
-.alumni-info h2 {
-  margin: 0;
-  font-size: 1.5em;
-}
-
-.alumni-info p {
-  margin: 5px 0;
-}
+    list-style: none;
+    padding: 0;
+  }
+  
+  .alumni {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 20px; /* Add spacing between alumni */
+  }
+  
+  .profile-image {
+    width: 100px;
+    margin-right: 20px;
+  }
+  
+  .alumni-info {
+    flex: 1;
+  }
+   
