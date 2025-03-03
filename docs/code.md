@@ -12,14 +12,14 @@ image: /images/smart-ag.jpeg
 <h2>Tutorials</h2>
 <p>We have integrated tutorials to enhance understanding of remote sensing, GIS, and Machine Learning/Artificial Intelligence.</p>
 
-<h3>1. Forest Conservation with AI </h3>
+<h3>1. Forest Conservation with AI 🌲</h3>
 <p>Learn how machine learning techniques are used to map forest cover in Madagascar.</p>
 <p><a href="https://missouriview.github.io/forest-conservation/" target="_blank">View Tutorial</a></p>
 
-<h3>2. Water Disparity and Levee Management </h3>
+<h3>2. Water Disparity and Levee Management 🚰</h3>
 <p>Explore water disparity issues and levee management strategies.</p>
 <p><a href="https://missouriview.github.io/water-disparity/" target="_blank">View Tutorial</a></p>
 
-<h3>3. Missouri as Art </h3>
+<h3>3. Missouri as Art 🎨</h3>
 <p>Visualize Missouri's landscapes using multispectral band combinations.</p>
 <p><a href="https://missouriview.github.io/missouri-as-art/" target="_blank">View Tutorial</a></p>
