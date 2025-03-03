@@ -57,9 +57,18 @@
   role: Post Doctoral Researcher (Saint Louis University)
   summary: Chiara Camerota is a postdoctoral researcher in Computer Science at Saint Louis University. She holds a PhD from the University of Florence, specializing in pattern recognition. Her work within the project focuses on researching Computer Vision methodology for classification and segmentation.
 
+- picture: ../assets/images/profiles/mansi.jpeg
+  name: Mansi Gidugu 
+  site: test.org
+  email: mansi.gidugu@slu.edu
+  role: PhD student (Saint Louis University)
+  summary:  Mansi Gidugu is a PhD student at Saint Louis University working in the areas of Machine Learning and Explainable AI.
+
 - picture: ../assets/images/profiles/Shamim.jpeg
   name: Shamim Yazdani
   site: test.org
   email: shamim.yazdani@slu.edu
   role: PhD student (Saint Louis University)
   summary:  I am a PhD student at saint louis university, and I am working on machine learning privacy and security.
+
+
