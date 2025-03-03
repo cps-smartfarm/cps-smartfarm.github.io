@@ -1,0 +1,6 @@
+@article{guo2024persistent,
+  title={Persistent Backdoor Attacks in Continual Learning},
+  author={Guo, Zhen and Kumar, Abhinav and Tourani, Reza},
+  journal={arXiv preprint arXiv:2409.13864},
+  year={2024}
+}
