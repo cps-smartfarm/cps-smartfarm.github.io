@@ -9,17 +9,35 @@ image: /images/smart-ag.jpeg
 <h3>A Real-time Gaming Framework for IoT and Smart Agriculture Teaching</h3>
 <p>The Real-time Gaming Framework for IoT and Smart Agriculture is an educational project that introduces the concepts of IoT, sensor integration, MQTT protocol, and real-time data visualization through an interactive game. For source code, visit this <a href="https://github.com/Shakoor-Lab-Organization/learn_ioat" target="_blank">GitHub link</a>.</p>
 
-<h2>Tutorials<h2>
+<h2>Tutorials</h2>
 <p>We have integrated tutorials to enhance understanding of remote sensing, GIS, and Machine Learning/Artificial Intelligence.</p>
 
-<h3>1. Forest Conservation with AI </h3>
-<p>Learn how machine learning techniques are used to map forest cover in Madagascar.</p>
-<p><a href="https://missouriview.github.io/forest-conservation/" target="_blank">View Tutorial</a></p>
+<!-- Dynamically Fetch Tutorials Using GitHub API -->
+<div id="tutorials-list"></div>
 
-<h3>2. Water Disparity and Levee Management 🚰</h3>
-<p>Explore water disparity issues and levee management strategies.</p>
-<p><a href="https://missouriview.github.io/water-disparity/" target="_blank">View Tutorial</a></p>
+<script>
+  // Fetching tutorials from the GitHub repository
+  fetch('https://api.github.com/repos/missouriview/missouriview.github.io/contents/')
+    .then(response => response.json())
+    .then(data => {
+      let tutorialsList = document.getElementById('tutorials-list');
+      
+      // Filtering out only the tutorials from the GitHub repository
+      data.forEach(file => {
+        if (file.name.endsWith('.html')) { // Assuming tutorials are HTML files
+          let tutorialName = file.name.replace('.html', ''); // Remove file extension
+          let tutorialUrl = file.html_url;
 
-<h3>3. Missouri as Art </h3>
-<p>Visualize Missouri's landscapes using multispectral band combinations.</p>
-<p><a href="https://missouriview.github.io/missouri-as-art/" target="_blank">View Tutorial</a></p>
+          // Create HTML to display each tutorial
+          let listItem = document.createElement('div');
+          listItem.innerHTML = `
+            <h3>${tutorialName}</h3>
+            <p>Learn more about ${tutorialName} here.</p>
+            <a href="${tutorialUrl}" target="_blank">View Tutorial</a>
+          `;
+          tutorialsList.appendChild(listItem);
+        }
+      });
+    })
+    .catch(error => console.error('Error fetching tutorials:', error));
+</script>
