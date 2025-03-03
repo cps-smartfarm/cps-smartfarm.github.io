@@ -15,7 +15,7 @@ image: /images/smart-ag.jpeg
 
 <h3>1. Forest Conservation with AI </h3>
 <p>Learn how machine learning techniques are used to map forest cover in Madagascar.</p>
-<img src="/assets/images/fca1.png" alt="Forest Conservation with AI" width="600">
+<img src="/assets/images/fca1.png" alt="Forest Conservation with AI" width="600" position="center">
 <p>
 						
 						The study area is the Betampona Nature Reserve (BNR), outlined by the white boundary in Figure 1
@@ -32,12 +32,12 @@ image: /images/smart-ag.jpeg
 						of invasive species such as Molucca Raspberry, Madagascar Cardamom, and Strawberry
 						Guava, biodiversity continues to be threatened. 
 <p>
-<img src="/assets/images/fca2.png" alt="Forest Conservation with AI" width="600">			
-<p><a href="https://github.com/MissouriView/Forest-Conservation-with-AI" target="_blank">View Tutorial</a></p>
+<img src="/assets/images/fca2.png" alt="Forest Conservation with AI" width="600" position="center">	
+<h3>To learn more you can access the tutorial - <a href="https://github.com/MissouriView/Forest-Conservation-with-AI" target="_blank">View Tutorial</a></h3>
 
 <h3>2. Water Disparity and Levee Management </h3>
 <p>Explore water disparity issues and levee management strategies.</p>
-<img src="/assets/images/leeve.png" alt="Forest Conservation with AI" width="600">	
+<img src="/assets/images/leeve.png" alt="Forest Conservation with AI" width="600" position="center">	
 <p>
 
 						This project was funded and conducted by the MissouriView unit of the AmericaView Consortium to
@@ -58,8 +58,9 @@ image: /images/smart-ag.jpeg
 						levee has repeatedly been breached since its construction in the 1940’s, and its
 						reconfiguration in 1982. You can access the data for this
 						tutorial on our 
-</p>		
-<p><a href="https://github.com/MissouriView/Water-Disparity-and-Levee-Management" target="_blank">View Tutorial</a></p>
+</p>	
+<h3>To learn more you can access the tutorial - <a href="https://github.com/MissouriView/Water-Disparity-and-Levee-Management" target="_blank">View Tutorial</a>
+</h3>	
 
 <h3>3. Missouri as Art </h3>
 <p>Visualize Missouri's landscapes using multispectral band combinations.</p>
@@ -77,5 +78,7 @@ image: /images/smart-ag.jpeg
 <br>
 						Material provides introduction to remote sensing with examples of imagery collected in Missouri. With intuitive combination of satellite imagery,the material highlight distinct Missouri landscape, ideal training material for K-16.
 </p>
-<img src="/assets/images/maa.png" alt="Forest Conservation with AI" width="600">
-<p><a href="https://github.com/MissouriView/Missouri-as-Art" target="_blank">View Tutorial</a></p>
+<img src="/assets/images/maa.png" alt="Forest Conservation with AI" width="600"position="center">
+<h3>To learn more you can access the tutorial - <a href="https://github.com/MissouriView/Missouri-as-Art" target="_blank">View Tutorial</a>
+</h3>	
+
