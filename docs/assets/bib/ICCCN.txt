@@ -1,0 +1,10 @@
+@INPROCEEDINGS{10637527,
+  author={Tao, Xu and Butcher, Jackson and Silvestri, Simone and Esposito, Flavio},
+  booktitle={2024 33rd International Conference on Computer Communications and Networks (ICCCN)}, 
+  title={iCrop: Enabling High-Precision Crop Disease Detection via LoRa Technology}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-9},
+  keywords={Deep learning;Image segmentation;Accuracy;Image edge detection;Rural areas;LoRa;Crops;LoRa;Crop Disease Monitoring;Smart Farming;Precision Agriculture},
+  doi={10.1109/ICCCN61486.2024.10637527}}
