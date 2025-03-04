@@ -46,7 +46,7 @@
 - picture: ../assets/images/profiles/felipe.jpeg
   name: Felipe A. Lopes
   site: http://felipealencar.github.io
-  email: felipe.lopes@slu.edu
+  email: felipe.lopes@slu.edu  git config pull.rebase false
   role: Post Doctoral Researcher (Saint Louis University)
   summary: Felipe A. Lopes is an Assistant Professor at the Federal Institute of Alagoas, currently on leave to pursue postdoctoral research at Saint Louis University in collaboration with the Remote Sensing Laboratory. His work within the project focuses on researching Generative Adversarial Networks and their potential in shaping intelligent models for field crop monitoring.
 
@@ -55,4 +55,20 @@
   site: https://thisplatypus.github.io/chiaracamerota.github.io/
   email: chiara.camerota@slu.edu
   role: Post Doctoral Researcher (Saint Louis University)
-  summary: Chiara Camerota currently on leave to pursue postdoctoral research at Saint Louis University. Her work within the project focuses on researching Computer Vision methodology for classification and segmentation.
+  summary: Chiara Camerota is a postdoctoral researcher in Computer Science at Saint Louis University. She holds a PhD from the University of Florence, specializing in pattern recognition. Her work within the project focuses on researching Computer Vision methodology for classification and segmentation.
+
+- picture: ../assets/images/profiles/mansi.jpeg
+  name: Mansi Gidugu 
+  site: test.org
+  email: mansi.gidugu@slu.edu
+  role: PhD student (Saint Louis University)
+  summary:  Mansi Gidugu is a PhD student at Saint Louis University working in the areas of Machine Learning and Explainable AI.
+
+- picture: ../assets/images/profiles/Shamim.jpeg
+  name: Shamim Yazdani
+  site: test.org
+  email: shamim.yazdani@slu.edu
+  role: PhD student (Saint Louis University)
+  summary:  I am a PhD student at saint louis university, and I am working on machine learning privacy and security.
+
+
