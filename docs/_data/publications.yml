@@ -11,19 +11,23 @@ arXiv:2502.04601v1 [cs.CR] 7 Feb 2025"
   year: 2024
   
 - citation: "Chiara Camerota, Lorenzo Pappone, Tommaso Pecorella, and Flavio Esposito. Addressing data security in IoT: minimum sample size and denoising diffusion models for improved malware detection. 
- In Proc. of in Proceedings of the 2024 20th International Conference on Network and Service Management (CNSM 2024), Prague, Czech Republic, Oct. 2024. <a href='https://ieeexplore.ieee.org/document/10814607'>DOI</a> - <a class='bibtex' href='/assets/bib/CNSM24-Camerota.txt'>Bibtex</a>"
+ In Proc. of in Proceedings of the 2024 20th International Conference on Network and Service Management (CNSM 2024), Prague, Czech Republic, Oct. 2024. DOI:10.23919/CNSM62983.2024.10814607. <a class='bibtex' href='/assets/bib/CNSM24-Camerota.txt'>Bibtex</a>"
+ #<a href='https://ieeexplore.ieee.org/document/10814607'>DOI</a>
   year: 2024
 
 - citation: "Elizabeth Liri, K. K. Ramakrishnan, Koushik Kar, and Flavio Esposito. Sensing Together: Cooperative Task Adaptation and Scheduling for IoT-Nets using Renewable Energy. 
- In Proc. of the 2024 IEEE 21st International Conference on Mobile Ad Hoc and Smart Systems (MASS), Seoul, Korea (South), September 22, 2024. <a href ='https://ieeexplore.ieee.org/document/10723711'>DOI</a> - <a class='bibtex' href='/assets/bib/MASS24-Liri.txt'>Bibtex</a>"
+ In Proc. of the 2024 IEEE 21st International Conference on Mobile Ad Hoc and Smart Systems (MASS), Seoul, Korea (South), September 22, 2024. DOI:10.1109/MASS62177.2024.00048. <a class='bibtex' href='/assets/bib/MASS24-Liri.txt'>Bibtex</a>"
+ #<a href ='https://ieeexplore.ieee.org/document/10723711'>DOI</a>
   year: 2024
 
 - citation: "Xu Tao, Jackson Butcher, Simone Silvestri, and Flavio Esposito. iCrop: Enabling High-Precision Crop Disease Detection via LoRa Technology. 
- In Proc. of The 33rd IEEE International Conference on Computer Communications and Networks (ICCCN 2024) July 29 - 31, 2024, Big Island, Hawaii, USA (invited paper). <a href='https://ieeexplore.ieee.org/document/10637527'>DOI</a> - <a class='bibtex' href='/assets/bib/ICCCN.txt'>Bibtex</a> "
+ In Proc. of The 33rd IEEE International Conference on Computer Communications and Networks (ICCCN 2024) July 29 - 31, 2024, Big Island, Hawaii, USA (invited paper). DOI:10.1109/ICCCN61486.2024.10637527. <a class='bibtex' href='/assets/bib/ICCCN.txt'>Bibtex</a> "
+ # <a href='https://ieeexplore.ieee.org/document/10637527'>DOI</a> - 
   year: 2024
 
 - citation: "Sariboz, Emrah, Reza Tourani, Roopa Vishwanathan, and Satyajayant Misra. PEPPER: Privacy-prEserving, auditable, and fair Payment based resource discovery at the PERvasive edge.
-  In Proceedings of the 19th ACM Asia Conference on Computer and Communications Security, pp. 1447-1462. 2024. <a href ='https://dl.acm.org/doi/10.1145/3634737.3637679'>DOI</a> - <a class='bibtex' href='/assets/bib/ACCCS2.txt'>Bibtex</a>"
+  In Proceedings of the 19th ACM Asia Conference on Computer and Communications Security, pp. 1447-1462. 2024. DOI:10.1145/3634737.3637679.  <a class='bibtex' href='/assets/bib/ACCCS2.txt'>Bibtex</a>"
+  # <a href ='https://dl.acm.org/doi/10.1145/3634737.3637679'>DOI</a> -
   year: 2024
 
 - citation: "Li C, Kumar A, Guo Z, Hou J, Tourani R. Unveiling the Unseen: Exploring Whitebox Membership Inference through the Lens of Explainability. 
@@ -31,49 +35,56 @@ arXiv:2502.04601v1 [cs.CR] 7 Feb 2025"
   year: 2024
 
 - citation: "Kumar, A., Aguilera, M.A.G., Tourani, R. and Misra, S., 2024, July. A Generative Framework for Low-Cost Result Validation of Machine Learning-as-a-Service Inference. 
-  In Proceedings of the 19th ACM Asia Conference on Computer and Communications Security (pp. 1246-1260).<a href='https://dl.acm.org/doi/10.1145/3634737.3657015'>DOI</a> - <a class='bibtex' href='/assets/bib/ACCCS.txt'>Bibtex</a>"
+  In Proceedings of the 19th ACM Asia Conference on Computer and Communications Security (pp. 1246-1260).DOI:10.1145/3634737.3657015. <a class='bibtex' href='/assets/bib/ACCCS.txt'>Bibtex</a>"
+  #<a href='https://dl.acm.org/doi/10.1145/3634737.3657015'>DOI</a> - 
   year: 2024
 
 - citation: "Muhammad Zawish, Paul Albert, Flavio Esposito, Steven Davy, and Lizy Abraham. Energy-Efficient Uncertainty-Aware Biomass Composition Prediction at the Edge. 
-              In proc. of 5th IEEE/CVF CVPR Workshop on Vision for Agriculture (V4A). Seattle, WA. June 17th-June 24th, 2024. 
+              In proc. of 5th IEEE/CVF CVPR Workshop on Vision for Agriculture (V4A). Seattle, WA. June 17th-June 24th, 2024. DOI:10.48550/arXiv.2404.11230.
               <a class='bibtex' href='/assets/bib/zawish2024biomass.txt'>Bibtex</a>
 " 
   year: 2024
 
-- citation: "Sagan V, Coral R, Bhadra S, Alifu H, Al Akkad O, Giri A, Esposito F. Hyperfidelis: A Software Toolkit to Empower Precision Agriculture with GeoAI. Remote Sensing. 2024 Apr 29;16(9):1584. 
-             <a href='https://doi.org/10.3390/rs16091584'>DOI</a> - <a  class='bibtex' href='/assets/bib/HYPER.txt'>Bibtex</a>"
+- citation: "Sagan V, Coral R, Bhadra S, Alifu H, Al Akkad O, Giri A, Esposito F. Hyperfidelis: A Software Toolkit to Empower Precision Agriculture with GeoAI. Remote Sensing. 2024 Apr 29;16(9):1584. DOI:10.3390/rs16091584.
+            <a  class='bibtex' href='/assets/bib/HYPER.txt'>Bibtex</a>"
+#             <a href='https://doi.org/10.3390/rs16091584'>DOI</a> - 
   year: 2024
 
 - citation: "Sourav Bhadra, Vasit Sagan, Supria Sarkar, Maxwell Braud, Todd C. Mockler, Andrea L. Eveland. PROSAIL-Net: A transfer
           learning-based dual stream neural network to estimate leaf chlorophyll and leaf angle of crops from UAV hyperspectral images. 
-          ISPRS Journal of Photogrammetry and Remote Sensing, Volume 210, 2024, Pages 1-24, ISSN 0924-2716, <a href='https://doi.org/10.1016/j.isprsjprs.2024.02.020'>DOI</a> - <a class='bibtex' href='/assets/bib/ISSN24.txt'>Bibtex</a>."
+          ISPRS Journal of Photogrammetry and Remote Sensing, Volume 210, 2024, Pages 1-24, ISSN 0924-2716, DOI:10.1016/j.isprsjprs.2024.02.020. <a class='bibtex' href='/assets/bib/ISSN24.txt'>Bibtex</a>."
+  #<a href='https://doi.org/10.1016/j.isprsjprs.2024.02.020'>DOI</a> -         
   year: 2024
 
 - citation: "Nurzaman Ahmed, Flavio Esposito, and Nadia Shakoor. Bridging IoT Education Through Activities: A 
               Game-Oriented Approach with Real-time Data Visualization. In Proc. of IEEE Integrated STEM Education 
-              Conference 2024. Princeton, NJ. March 9th, 2024. <a href='https://ieeexplore.ieee.org/document/10665136'>DOI</a> - <a class='bibtex' href='/assets/bib/ISEC24.txt'>Bibtex</a>"
+              Conference 2024. Princeton, NJ. March 9th, 2024. DOI:10.1109/ISEC61299.2024.10665136. <a class='bibtex' href='/assets/bib/ISEC24.txt'>Bibtex</a>"
+#              <a href='https://ieeexplore.ieee.org/document/10665136'>DOI</a> -
   year: 2024
 
 - citation: "Lopes, F. A., Esposito, F., Sagan, V. PlantPlotGAN: A Physics-Informed Generative Adversarial Network for Plant Disease Prediction.
-              IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2024.<a href='https://ieeexplore.ieee.org/document/10484018'>DOI</a> - <a class='bibtex' href='/assets/bib/WACV24.txt'>Bibtex</a>"
+              IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2024.DOI:10.1109/WACV57701.2024.00691. <a class='bibtex' href='/assets/bib/WACV24.txt'>Bibtex</a>"
+              #<a href='https://ieeexplore.ieee.org/document/10484018'>DOI</a> - 
   year: 2024
 
 - citation: "Yang, D., Kumar, A., Ray, S., Wang, W., Tourani, R., IoT Sentinel: 
               Correlation-based Attack Detection, Localization, and Authentication in IoT 
-              Networks, IEEE International Conference on Computer Communications and Networks, 2023.<a href='https://ieeexplore.ieee.org/document/10230209'>DOI</a> - <a class='bibtex' href='/assets/bib/IEEE23.txt'>Bibtex</a>"
+              Networks, IEEE International Conference on Computer Communications and Networks, 2023.DOI:10.1109/ICCCN58024.2023.10230209. <a class='bibtex' href='/assets/bib/IEEE23.txt'>Bibtex</a>"
+            #  <a href='https://ieeexplore.ieee.org/document/10230209'>DOI</a> - 
   year: 2023
 
 - citation: "Dougherty, S., Kumar, A., Hou, J., Tourani, R., MTabakhi, A., A Stealthy Inference Attack 
               on Split Learning with a Split-Fuse 
               Defensive Measure, IEEE Conference on Communications and Network Security.
               IEEE Conference on Communications and Network Security (CSN). 2023.
-              Orlando, FL, USA, October 2-5, 2023. <a href='https://doi.org/10.1109/CNS59707.2023.10288661'>DOI</a> - <a class='bibtex' href='/assets/bib/IEEE232.txt'>Bibtex</a>"
+              Orlando, FL, USA, October 2-5, 2023. DOI: 10.1109/CNS59707.2023.10288661. <a class='bibtex' href='/assets/bib/IEEE232.txt'>Bibtex</a>"
+ #             <a href='https://doi.org/10.1109/CNS59707.2023.10288661'>DOI</a> - 
   year: 2023
 
 - citation: "Ahmed, N., Esposito, F., Okafor, O., Shakoor, N. SoftFarmNet: Reconfigurable Wi-Fi HaLow Networks for Precision Agriculture (To appear in IEEE CloudNet 2023)"
   year: 2023
 
 - citation: "Wells, K., Lopes, F. A., Sagan, V., Esposito, F. A multifaceted benchmarking of GAN architectures on generating synthetic satellite imagery. IEEE 52nd Applied Imagery Pattern Recognition Workshop (AIPR). 2023.
-            St. Louis, MO, USA, September 27-29, 2023.
-            <a href='https://doi.org/10.1109/AIPR60534.2023.10440718'>DOI</a> - <a class='bibtex' href='/assets/bib/IEEE233.txt'>Bibtex</a>"
+            St. Louis, MO, USA, September 27-29, 2023. DOI: 10.1109/AIPR60534.2023.10440718. <a class='bibtex' href='/assets/bib/IEEE233.txt'>Bibtex</a>"
+#            <a href='https://doi.org/10.1109/AIPR60534.2023.10440718'>DOI</a> - 
   year: 2023
