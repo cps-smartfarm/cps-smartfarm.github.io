@@ -1,0 +1,6 @@
+@article{kumar2025latteo,
+  title={LATTEO: A Framework to Support Learning Asynchronously Tempered with Trusted Execution and Obfuscation},
+  author={Kumar, Abhinav and Torres, George and Guzinski, Noah and Panwar, Gaurav and Tourani, Reza and Misra, Satyajayant and Spoczynski, Marcin and Vij, Mona and Himayat, Nageen},
+  journal={arXiv preprint arXiv:2502.04601},
+  year={2025}
+}
