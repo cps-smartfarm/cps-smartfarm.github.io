@@ -1,0 +1,13 @@
+@article{BHADRA20241,
+title = {PROSAIL-Net: A transfer learning-based dual stream neural network to estimate leaf chlorophyll and leaf angle of crops from UAV hyperspectral images},
+journal = {ISPRS Journal of Photogrammetry and Remote Sensing},
+volume = {210},
+pages = {1-24},
+year = {2024},
+issn = {0924-2716},
+doi = {https://doi.org/10.1016/j.isprsjprs.2024.02.020},
+url = {https://www.sciencedirect.com/science/article/pii/S0924271624000650},
+author = {Sourav Bhadra and Vasit Sagan and Supria Sarkar and Maxwell Braud and Todd C. Mockler and Andrea L. Eveland},
+keywords = {Radiative transfer model, PROSAIL inversion, Artificial intelligence, Bi-directional reflectance distribution function, Plant phenotyping},
+abstract = {Accurate and efficient estimation of crop biophysical traits, such as leaf chlorophyll concentrations (LCC) and average leaf angle (ALA), is an important bridge between intelligent crop breeding and precision agriculture. While Unmanned Aerial Vehicle (UAV)-based hyperspectral sensors and advanced machine learning models offer high-throughput solutions, collecting sufficient ground truth data for machine learning training can be challenging, leading to models that lack generalizability for practical uses. This study proposes a transfer learning based dual stream neural network (DSNN) called PROSAIL-Net, which leverages the knowledge gained from PROSAIL simulation and improves the estimation of corn LCC and ALA from UAV-borne hyperspectral images. In addition to hyperspectral data, the DSNN also includes solar-sensor geometry data, which was automatically extracted from a cross-grid UAV flight. The hyperspectral branch in the DSNN was also tested with multi-layer perceptron (MLP), long short-term memory (LSTM), gated recurrent unit (GRU), and 1D convolutional neural network (CNN) architectures. The results suggest that the 1D CNN architecture exhibits superior performance compared to MLP, LSTM, and GRU networks when used in the spectral branch of DSNN. PROSAIL-Net outperforms all other modeling scenarios in predicting LCC (R2 0.66, NRMSE 8.81%) and ALA (R2 0.57, NRMSE 24.32%) and the use of multi-angular UAV observations significantly improves the prediction accuracy of both LCC (R2 improved from 0.52 to 0.66) and ALA (R2 improved from 0.35 to 0.57). This study highlights the importance of utilizing large amounts of PROSAIL-simulated data in conjunction with transfer learning and multi-angular UAV observations in precision agriculture.}
+}
