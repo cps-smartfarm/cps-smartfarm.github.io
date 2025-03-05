@@ -1,0 +1,10 @@
+@INPROCEEDINGS{10440718,
+  author={Wells, Kevin and Lopes, Felipe A. and Sagan, Vasit and Esposito, Flavio},
+  booktitle={2023 IEEE Applied Imagery Pattern Recognition Workshop (AIPR)}, 
+  title={A multifaceted benchmarking of GAN architectures on generating synthetic satellite imagery}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-7},
+  keywords={Measurement;Benchmark testing;Generative adversarial networks;Satellite images;Reliability;Task analysis;Synthetic data;satellite imagery;machine learning models;generative adversarial networks;object detection},
+  doi={10.1109/AIPR60534.2023.10440718}}

@@ -35,7 +35,7 @@ arXiv:2502.04601v1 [cs.CR] 7 Feb 2025. <a class='bibtex' href='/assets/bib/ARXIV
 
 - citation: "Muhammad Zawish, Paul Albert, Flavio Esposito, Steven Davy, and Lizy Abraham. Energy-Efficient Uncertainty-Aware Biomass Composition Prediction at the Edge. 
               In proc. of 5th IEEE/CVF CVPR Workshop on Vision for Agriculture (V4A). Seattle, WA. June 17th-June 24th, 2024. 
-              <a href='https://doi.org/10.1109/CVPRW.2024.10678563'>DOI</a> 
+              # <a href='https://doi.org/10.1109/CVPRW.2024.10678563'>DOI</a> 
               <a class='bibtex' href='/assets/bib/zawish2024biomass.txt'>Bibtex</a>
 " 
   year: 2024
@@ -55,19 +55,19 @@ arXiv:2502.04601v1 [cs.CR] 7 Feb 2025. <a class='bibtex' href='/assets/bib/ARXIV
   year: 2024
 
 - citation: "Lopes, F. A., Esposito, F., Sagan, V. PlantPlotGAN: A Physics-Informed Generative Adversarial Network for Plant Disease Prediction.
-              IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2024. <a class='bibtex' href='/assets/bib/WACV24.txt'>Bibtex</a>"
+              IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2024.<a href='https://ieeexplore.ieee.org/document/10484018'>DOI</a> - <a class='bibtex' href='/assets/bib/WACV24.txt'>Bibtex</a>"
   year: 2024
 
 - citation: "Yang, D., Kumar, A., Ray, S., Wang, W., Tourani, R., IoT Sentinel: 
               Correlation-based Attack Detection, Localization, and Authentication in IoT 
-              Networks, IEEE International Conference on Computer Communications and Networks, 2023."
+              Networks, IEEE International Conference on Computer Communications and Networks, 2023.<a href='https://ieeexplore.ieee.org/document/10230209'>DOI</a> - <a class='bibtex' href='/assets/bib/IEEE23.txt'>Bibtex</a>"
   year: 2023
 
 - citation: "Dougherty, S., Kumar, A., Hou, J., Tourani, R., MTabakhi, A., A Stealthy Inference Attack 
               on Split Learning with a Split-Fuse 
               Defensive Measure, IEEE Conference on Communications and Network Security.
               IEEE Conference on Communications and Network Security (CSN). 2023.
-              Orlando, FL, USA, October 2-5, 2023. <a href='https://doi.org/10.1109/CNS59707.2023.10288661'>DOI</a>"
+              Orlando, FL, USA, October 2-5, 2023. <a href='https://doi.org/10.1109/CNS59707.2023.10288661'>DOI</a> - <a class='bibtex' href='/assets/bib/IEEE232.txt'>Bibtex</a>"
   year: 2023
 
 - citation: "Ahmed, N., Esposito, F., Okafor, O., Shakoor, N. SoftFarmNet: Reconfigurable Wi-Fi HaLow Networks for Precision Agriculture (To appear in IEEE CloudNet 2023)"
@@ -75,5 +75,5 @@ arXiv:2502.04601v1 [cs.CR] 7 Feb 2025. <a class='bibtex' href='/assets/bib/ARXIV
 
 - citation: "Wells, K., Lopes, F. A., Sagan, V., Esposito, F. A multifaceted benchmarking of GAN architectures on generating synthetic satellite imagery. IEEE 52nd Applied Imagery Pattern Recognition Workshop (AIPR). 2023.
             St. Louis, MO, USA, September 27-29, 2023.
-            <a href='https://doi.org/10.1109/AIPR60534.2023.10440718'>DOI</a>"
+            <a href='https://doi.org/10.1109/AIPR60534.2023.10440718'>DOI</a> - <a class='bibtex' href='/assets/bib/IEEE233.txt'>Bibtex</a>"
   year: 2023

@@ -1,0 +1,10 @@
+@INPROCEEDINGS{10230209,
+  author={Yang, Dianshi and Kumar, Abhinav and Ray, Stuart and Wang, Wei and Tourani, Reza},
+  booktitle={2023 32nd International Conference on Computer Communications and Networks (ICCCN)}, 
+  title={IoT Sentinel: Correlation-based Attack Detection, Localization, and Authentication in IoT Networks}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-10},
+  keywords={Location awareness;Wireless communication;Performance evaluation;Wireless sensor networks;Correlation;Authentication;Encryption;Internet of Things;Attack Detection and Localization;Authentication},
+  doi={10.1109/ICCCN58024.2023.10230209}}

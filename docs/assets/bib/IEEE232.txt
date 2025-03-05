@@ -1,0 +1,10 @@
+@INPROCEEDINGS{10288661,
+  author={Dougherty, Sean and Kumar, Abhinav and Hou, Jie and Tourani, Reza and Tabakhi, Atena M.},
+  booktitle={2023 IEEE Conference on Communications and Network Security (CNS)}, 
+  title={A Stealthy Inference Attack on Split Learning with a Split-Fuse Defensive Measure}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-9},
+  keywords={Training;Knowledge engineering;Privacy;Scalability;Computer architecture;Network security;Information leakage;Distributed learning;privacy;inference attack;split learning;model inversion.},
+  doi={10.1109/CNS59707.2023.10288661}}
