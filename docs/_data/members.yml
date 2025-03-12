@@ -34,7 +34,8 @@
   site: http://test.dev
   email: andre@test.dev
   role: co-PI, Assistant Professor (Saint Louis University)
-  summary: Summary
+  summary: Dr. Kate Holdener is an assistant professor in the Department of Computer Science. Before joining SLU, Dr. Holdener completed her Ph.D. in Computer Science at the Missouri University of Science and Technology in 2008. She subsequently worked in industry for 10 years, at Exegy, Inc. in various roles such as software engineer, senior API engineering, and product manager. Her research interests focus on the automation of software engineering processes, software development methodologies, and on the application of evolutionary algorithms to software engineering.
+
 
 - picture: ../assets/images/profiles/nur.png
   name: Nurzaman Ahmed
