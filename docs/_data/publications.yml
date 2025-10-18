@@ -20,6 +20,7 @@
   year: 2025
 
 - citation: "Emilio Paolini, Andrea Pinto, Flavio Esposito, and Luca Valcarenghi. Energy Consumption of Quantized Federated Learning in Optical-Wireless Networks. In Proc. of 24th International Conference on Transparent Optical Networks (ICTON 2025), Barcelona, Spain, July 6th-10th, 2025 (Invited Paper).
+<a class='bibtex' href='/assets/bib/ICTON-2025.txt'>Bibtex</a>"
   year: 2025
   
 - citation: "Abhinav Kumar, George Torres, Noah Guzinski, Gaurav Panwar, Reza Tourani, Satyajayant Misra, Marcin Spoczynski, Mona Vij, Nageen Himayat. LATTEO: A Framework to Support Learning Asynchronously Tempered with Trusted Execution and Obfuscation. arXiv preprint arXiv:2502.04601, 2025.
