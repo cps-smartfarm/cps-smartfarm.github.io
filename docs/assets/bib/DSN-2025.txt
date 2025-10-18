@@ -1,0 +1,6 @@
+@inproceedings{salari2025odoh,
+  author       = {Mohammad Amir Salari and Abhinav Kumar and Federico Rinaudi and Reza Tourani and Alessio Sacco and Flavio Esposito},
+  title        = {Privacy Analysis of Oblivious DNS over HTTPS: A Website Fingerprinting Study},
+  booktitle    = {Proceedings of the IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)},
+  year         = {2025}
+}
