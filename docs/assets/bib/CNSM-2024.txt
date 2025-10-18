@@ -1,0 +1,10 @@
+@INPROCEEDINGS{10814440,
+  author={Paolini, Emilio and Pinto, Andrea and Valcarenghi, Luca and Andriolli, Nicola and Maggiani, Luca and Esposito, Flavio},
+  booktitle={2024 20th International Conference on Network and Service Management (CNSM)}, 
+  title={Efficient Distributed Learning Over Lossy Wireless Networks}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-7},
+  keywords={Computer aided instruction;Codes;Protocols;Distance learning;Federated learning;Wireless networks;Packet loss;Reinforcement learning;Robustness;Logic;fountain codes;federated learning;wireless networks;distributed learning},
+  doi={10.23919/CNSM62983.2024.10814440}}
