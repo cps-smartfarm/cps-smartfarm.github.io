@@ -1,3 +1,27 @@
+- citation: "Chiara Camerota, Madi Babaiasl, Nadia Shakoor, and Flavio Esposito, Early Detection and Management of Crop Pests Using Quadruped Robotic Systems: Challenges and Open Problems. In Proceedings of the IEEE Workshop on Converged Communication, Computing, and Control for Next-Generation Cyber-Physical Systems (C4CPS), held in conjunction with the 2025 IEEE 101st Vehicular Technology Conference (VTC2025-Spring), Oslo, Norway, 17 - 20 June 2025. Invited Paper." 
+  year: 2025
+  
+- citation: "F. A. Lopes, V. Sagan, S. Sarkar, A. Stylianou and F. Esposito. Geospatial Time Machine: A Generative Model to Enhance Spectral-Temporal Data Resolution. In IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2025.3552629."
+  year: 2025
+
+- citation: "Francesco Todino, Tommaso Pecorella, and Flavio Esposito, A Multi-Metric Approach in AODVv2: Enhancing Energy Efficiency and Security for MANETs; In Proc. IEEE Conf. Network Softwarization (NetSoft), Budapest, Hungary, June 2025."
+  year: 2025
+
+- citation: "Alessandro Sangiorgi, Andrea Pinto, Reza Tourani, and Flavio Esposito, Mitigating De-authentication DoS Attacks in 802.11 via eBPF and XDP,” in Proc. IEEE Conf. Network Softwarization (NetSoft), Budapest, Hungary, June 2025 (short paper)"
+  year: 2025
+
+- citation: "Andrea Pinto, Alessandro Masci, Alessio Sacco, Guido Marchetto, and Flavio Esposito, Optimizing Model Pruning in Decentralized Learning Networks with DFL-Trim, in Proc. IEEE Conf. Network Softwarization (NetSoft), Budapest, Hungary, June 2025."
+  year: 2025
+
+- citation: "Javier Palomares, Chiara Camerota, Flavio Esposito, Estefania Coronado, Cristina Cervelló-Pastor, and Muhammad Shuaib Siddiqui. Taming Bandwidth Bottlenecks in Federated Learning via ECN-based Gradient Compression. In Proc. of 2025 21st International Conference on Network and Service Management (CNSM 2025), Oct. 2025, Bologna, Italy.
+  year: 2025
+
+- citation: "Francesco Todino, Tommaso Pecorella, Charles Perkins, and Flavio Esposito, AODVv2 in ns-3: Implementation and Early Results, Proceedings of the International Conference on ns-3 (ICNS3), Osaka, Japan, 19—21 August 2025"  
+  year: 2025
+
+- citation: "Emilio Paolini, Andrea Pinto, Flavio Esposito, and Luca Valcarenghi. Energy Consumption of Quantized Federated Learning in Optical-Wireless Networks. In Proc. of 24th International Conference on Transparent Optical Networks (ICTON 2025), Barcelona, Spain, July 6th-10th, 2025 (Invited Paper).
+  year: 2025
+  
 - citation: "Abhinav Kumar, George Torres, Noah Guzinski, Gaurav Panwar, Reza Tourani, Satyajayant Misra, Marcin Spoczynski, Mona Vij, Nageen Himayat. LATTEO: A Framework to Support Learning Asynchronously Tempered with Trusted Execution and Obfuscation. arXiv preprint arXiv:2502.04601, 2025.
       <a class='bibtex' href='/assets/bib/ARXIV25.txt'>Bibtex</a>"
   year: 2025
