@@ -1,0 +1,9 @@
+@inproceedings{paolini2025energy,
+  author    = {Emilio Paolini and Andrea Pinto and Flavio Esposito and Luca Valcarenghi},
+  title     = {Energy Consumption of Quantized Federated Learning in Optical-Wireless Networks},
+  booktitle = {Proceedings of the 24th International Conference on Transparent Optical Networks (ICTON 2025)},
+  address   = {Barcelona, Spain},
+  month     = jul,
+  year      = {2025},
+  note      = {Invited Paper}
+}
