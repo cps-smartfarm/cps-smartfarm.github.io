@@ -1,0 +1,6 @@
+@article{kumar2025latteo,
+  author       = {Abhinav Kumar and George Torres and Noah Guzinski and Gaurav Panwar and Reza Tourani and Satyajayant Misra and Marcin Spoczynski and Mona Vij and Nageen Himayat},
+  title        = {LATTEO: A Framework to Support Learning Asynchronously Tempered with Trusted Execution and Obfuscation},
+  journal      = {arXiv preprint arXiv:2502.04601},
+  year         = {2025}
+}
