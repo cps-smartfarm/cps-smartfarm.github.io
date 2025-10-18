@@ -1,0 +1,6 @@
+@inproceedings{sula2025unlearning,
+  author       = {Nexhi Sula and Abhinav Kumar and Han Wang and Jie Hou and Reza Tourani},
+  title        = {Silver Linings in the Shadows: Harnessing Membership Inference for Machine Unlearning},
+  booktitle    = {IEEE Conference on Communication and Network Security (CNS)},
+  year         = {2025}
+}
