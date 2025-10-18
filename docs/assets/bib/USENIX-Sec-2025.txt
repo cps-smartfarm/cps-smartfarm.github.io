@@ -1,0 +1,7 @@
+@inproceedings{guo2025backdoor,
+  author       = {Zhen Guo and Abhinav Kumar and Reza Tourani},
+  title        = {Persistent Backdoor Attacks in Continual Learning},
+  booktitle    = {Proceedings of the 34th USENIX Security Symposium},
+  pages        = {6379--6397},
+  year         = {2025}
+}
