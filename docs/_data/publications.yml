@@ -1,9 +1,22 @@
-- citation: "Zhen Guo, Abhinav Kumar, Reza Tourani. Persistent Backdoor Attacks in Continual Learning (to appear in USENIX Security 2025)"
+- citation: "Abhinav Kumar, George Torres, Noah Guzinski, Gaurav Panwar, Reza Tourani, Satyajayant Misra, Marcin Spoczynski, Mona Vij, Nageen Himayat. LATTEO: A Framework to Support Learning Asynchronously Tempered with Trusted Execution and Obfuscation. arXiv preprint arXiv:2502.04601, 2025.
+      <a class='bibtex' href='/assets/bib/ARXIV25.txt'>Bibtex</a>"
   year: 2025
 
+- citation: "Mohammad Amir Salari, Abhinav Kumar, Federico Rinaudi, Reza Tourani, Alessio Sacco, Flavio Esposito. Privacy Analysis of Oblivious DNS over HTTPS: A Website Fingerprinting Study. In IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2025. Awarded Best Paper.
+<a class='bibtex' href='/assets/bib/USENIX-Sec-2025.txt'>Bibtex</a>"
+  year: 2025
+
+- citation: "Nexhi Sula, Abhinav Kumar, Han Wang, Jie Hou, Reza Tourani. Silver Linings in the Shadows: Harnessing Membership Inference for Machine Unlearning. IEEE Conference on Communication and Network Security (CNS), 2025.
+<a class='bibtex' href='/assets/bib/CNS-2025.txt'>Bibtex</a>"
+  year: 2025
+
+- citation: "Zhen Guo, Abhinav Kumar, Reza Tourani. Persistent Backdoor Attacks in Continual Learning. In Proceedings of the 34th USENIX Security Symposium, pages 6379–6397, 2025.
+<a class='bibtex' href='/assets/bib/USENIX-Sec-2025.txt'>Bibtex</a>"
+  year: 2025
+
+
 - citation: "Abhinav Kumar, George Torres, Noah Guzinski, Gaurav Panwar, Reza Tourani, Satyajayant Misra, Marcin Spoczynski, Mona Vij, Nageen Himayat. LATTEO: A Framework to Support Learning Asynchronously Tempered with Trusted Execution and Obfuscation. 
-arXiv:2502.04601v1 [cs.CR] 7 Feb 2025"
-#<a class='bibtex' href='/assets/bib/ARXIV25.txt'>Bibtex</a>"
+arXiv:2502.04601v1 [cs.CR] 7 Feb 2025  <a class='bibtex' href='/assets/bib/latteo.txt'>Bibtex</a>"
   year: 2025  
 
 - citation: "Emilio Paolini, Andrea Pinto, Luca Valcarenghi, Nicola Andriolli, Luca Maggiani, and Flavio Esposito. Efficient distributed learning over lossy wireless networks. 
