@@ -1,128 +1,207 @@
-- citation: "Chiara Camerota, Madi Babaiasl, Nadia Shakoor, and Flavio Esposito, Early Detection and Management of Crop Pests Using Quadruped Robotic Systems: Challenges and Open Problems. In Proceedings of the IEEE Workshop on Converged Communication, Computing, and Control for Next-Generation Cyber-Physical Systems (C4CPS), held in conjunction with the 2025 IEEE 101st Vehicular Technology Conference (VTC2025-Spring), Oslo, Norway, 17 - 20 June 2025. Invited Paper." 
-  year: 2025
-  
-- citation: "F. A. Lopes, V. Sagan, S. Sarkar, A. Stylianou and F. Esposito. Geospatial Time Machine: A Generative Model to Enhance Spectral-Temporal Data Resolution. In IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2025.3552629."
-  year: 2025
-
-- citation: "Francesco Todino, Tommaso Pecorella, and Flavio Esposito, A Multi-Metric Approach in AODVv2: Enhancing Energy Efficiency and Security for MANETs; In Proc. IEEE Conf. Network Softwarization (NetSoft), Budapest, Hungary, June 2025."
+- citation: |
+    Chiara Camerota, Madi Babaiasl, Nadia Shakoor, and Flavio Esposito,
+    Early Detection and Management of Crop Pests Using Quadruped Robotic Systems: Challenges and Open Problems.
+    In Proceedings of the IEEE Workshop on Converged Communication, Computing, and Control for Next-Generation Cyber-Physical Systems (C4CPS),
+    held in conjunction with the 2025 IEEE 101st Vehicular Technology Conference (VTC2025-Spring), Oslo, Norway, 17–20 June 2025. Invited Paper.
   year: 2025
 
-- citation: "Alessandro Sangiorgi, Andrea Pinto, Reza Tourani, and Flavio Esposito, Mitigating De-authentication DoS Attacks in 802.11 via eBPF and XDP,” in Proc. IEEE Conf. Network Softwarization (NetSoft), Budapest, Hungary, June 2025 (short paper)"
+- citation: |
+    F. A. Lopes, V. Sagan, S. Sarkar, A. Stylianou, and F. Esposito.
+    Geospatial Time Machine: A Generative Model to Enhance Spectral-Temporal Data Resolution.
+    IEEE Transactions on Geoscience and Remote Sensing, 2025. doi: 10.1109/TGRS.2025.3552629.
   year: 2025
 
-- citation: "Andrea Pinto, Alessandro Masci, Alessio Sacco, Guido Marchetto, and Flavio Esposito, Optimizing Model Pruning in Decentralized Learning Networks with DFL-Trim, in Proc. IEEE Conf. Network Softwarization (NetSoft), Budapest, Hungary, June 2025."
+- citation: |
+    Francesco Todino, Tommaso Pecorella, and Flavio Esposito,
+    A Multi-Metric Approach in AODVv2: Enhancing Energy Efficiency and Security for MANETs.
+    In Proc. IEEE Conf. Network Softwarization (NetSoft), Budapest, Hungary, June 2025.
   year: 2025
 
-- citation: "Javier Palomares, Chiara Camerota, Flavio Esposito, Estefania Coronado, Cristina Cervelló-Pastor, and Muhammad Shuaib Siddiqui. Taming Bandwidth Bottlenecks in Federated Learning via ECN-based Gradient Compression. In Proc. of 2025 21st International Conference on Network and Service Management (CNSM 2025), Oct. 2025, Bologna, Italy.
+- citation: |
+    Alessandro Sangiorgi, Andrea Pinto, Reza Tourani, and Flavio Esposito,
+    Mitigating De-authentication DoS Attacks in 802.11 via eBPF and XDP,
+    In Proc. IEEE Conf. Network Softwarization (NetSoft), Budapest, Hungary, June 2025 (short paper).
   year: 2025
 
-- citation: "Francesco Todino, Tommaso Pecorella, Charles Perkins, and Flavio Esposito, AODVv2 in ns-3: Implementation and Early Results, Proceedings of the International Conference on ns-3 (ICNS3), Osaka, Japan, 19—21 August 2025"  
+- citation: |
+    Andrea Pinto, Alessandro Masci, Alessio Sacco, Guido Marchetto, and Flavio Esposito,
+    Optimizing Model Pruning in Decentralized Learning Networks with DFL-Trim,
+    In Proc. IEEE Conf. Network Softwarization (NetSoft), Budapest, Hungary, June 2025.
   year: 2025
 
-- citation: "Emilio Paolini, Andrea Pinto, Flavio Esposito, and Luca Valcarenghi. Energy Consumption of Quantized Federated Learning in Optical-Wireless Networks. In Proc. of 24th International Conference on Transparent Optical Networks (ICTON 2025), Barcelona, Spain, July 6th-10th, 2025 (Invited Paper).
-<a class='bibtex' href='/assets/bib/ICTON-2025.txt'>Bibtex</a>"
-  year: 2025
-  
-- citation: "Abhinav Kumar, George Torres, Noah Guzinski, Gaurav Panwar, Reza Tourani, Satyajayant Misra, Marcin Spoczynski, Mona Vij, Nageen Himayat. LATTEO: A Framework to Support Learning Asynchronously Tempered with Trusted Execution and Obfuscation. arXiv preprint arXiv:2502.04601, 2025.
-      <a class='bibtex' href='/assets/bib/ARXIV25.txt'>Bibtex</a>"
+- citation: |
+    Javier Palomares, Chiara Camerota, Flavio Esposito, Estefania Coronado, Cristina Cervelló-Pastor, and Muhammad Shuaib Siddiqui.
+    Taming Bandwidth Bottlenecks in Federated Learning via ECN-based Gradient Compression.
+    In Proc. of 2025 21st International Conference on Network and Service Management (CNSM 2025), Bologna, Italy, Oct. 2025.
   year: 2025
 
-- citation: "Mohammad Amir Salari, Abhinav Kumar, Federico Rinaudi, Reza Tourani, Alessio Sacco, Flavio Esposito. Privacy Analysis of Oblivious DNS over HTTPS: A Website Fingerprinting Study. In IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2025. Awarded Best Paper.
-<a class='bibtex' href='/assets/bib/USENIX-Sec-2025.txt'>Bibtex</a>"
+- citation: |
+    Francesco Todino, Tommaso Pecorella, Charles Perkins, and Flavio Esposito,
+    AODVv2 in ns-3: Implementation and Early Results,
+    Proceedings of the International Conference on ns-3 (ICNS3), Osaka, Japan, 19–21 August 2025.
   year: 2025
 
-- citation: "Nexhi Sula, Abhinav Kumar, Han Wang, Jie Hou, Reza Tourani. Silver Linings in the Shadows: Harnessing Membership Inference for Machine Unlearning. IEEE Conference on Communication and Network Security (CNS), 2025.
-<a class='bibtex' href='/assets/bib/CNS-202025.txt'>Bibtex</a>"
+- citation: |
+    Emilio Paolini, Andrea Pinto, Flavio Esposito, and Luca Valcarenghi.
+    Energy Consumption of Quantized Federated Learning in Optical-Wireless Networks.
+    In Proc. of 24th International Conference on Transparent Optical Networks (ICTON 2025), Barcelona, Spain, July 6–10, 2025 (Invited Paper).
+    <a class='bibtex' href='/assets/bib/ICTON-2025.txt'>Bibtex</a>
   year: 2025
 
-- citation: "Zhen Guo, Abhinav Kumar, Reza Tourani. Persistent Backdoor Attacks in Continual Learning. In Proceedings of the 34th USENIX Security Symposium, pages 6379–6397, 2025.
-<a class='bibtex' href='/assets/bib/USENIX-Sec-2025.txt'>Bibtex</a>"
+- citation: |
+    Abhinav Kumar, George Torres, Noah Guzinski, Gaurav Panwar, Reza Tourani, Satyajayant Misra, Marcin Spoczynski, Mona Vij, Nageen Himayat.
+    LATTEO: A Framework to Support Learning Asynchronously Tempered with Trusted Execution and Obfuscation.
+    arXiv preprint arXiv:2502.04601, 2025.
+    <a class='bibtex' href='/assets/bib/ARXIV25.txt'>Bibtex</a>
   year: 2025
 
+- citation: |
+    Mohammad Amir Salari, Abhinav Kumar, Federico Rinaudi, Reza Tourani, Alessio Sacco, Flavio Esposito.
+    Privacy Analysis of Oblivious DNS over HTTPS: A Website Fingerprinting Study.
+    In IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2025. Awarded Best Paper.
+    <a class='bibtex' href='/assets/bib/USENIX-Sec-2025.txt'>Bibtex</a>
+  year: 2025
 
-- citation: "Abhinav Kumar, George Torres, Noah Guzinski, Gaurav Panwar, Reza Tourani, Satyajayant Misra, Marcin Spoczynski, Mona Vij, Nageen Himayat. LATTEO: A Framework to Support Learning Asynchronously Tempered with Trusted Execution and Obfuscation. 
-arXiv:2502.04601v1 [cs.CR] 7 Feb 2025  <a class='bibtex' href='/assets/bib/latteo.txt'>Bibtex</a>"
-  year: 2025  
+- citation: |
+    Nexhi Sula, Abhinav Kumar, Han Wang, Jie Hou, Reza Tourani.
+    Silver Linings in the Shadows: Harnessing Membership Inference for Machine Unlearning.
+    IEEE Conference on Communication and Network Security (CNS), 2025.
+    <a class='bibtex' href='/assets/bib/CNS-202025.txt'>Bibtex</a>
+  year: 2025
 
-- citation: "Emilio Paolini, Andrea Pinto, Luca Valcarenghi, Nicola Andriolli, Luca Maggiani, and Flavio Esposito. Efficient distributed learning over lossy wireless networks. 
- In Proc. of in Proceedings of the 2024 20th International Conference on Network and Service Management (CNSM 2024), Prague, Czech Republic, Oct. 2024. DOI: 10.23919/CNSM62983.2024.10814440. <a class='bibtex' href='/assets/bib/CNSM24-Emilio.txt'>Bibtex</a>"
-  year: 2024
-  
-- citation: "Chiara Camerota, Lorenzo Pappone, Tommaso Pecorella, and Flavio Esposito. Addressing data security in IoT: minimum sample size and denoising diffusion models for improved malware detection. 
- In Proc. of in Proceedings of the 2024 20th International Conference on Network and Service Management (CNSM 2024), Prague, Czech Republic, Oct. 2024. DOI:10.23919/CNSM62983.2024.10814607. <a class='bibtex' href='/assets/bib/CNSM24-Camerota.txt'>Bibtex</a>"
- #<a href='https://ieeexplore.ieee.org/document/10814607'>DOI</a>
-  year: 2024
+- citation: |
+    Zhen Guo, Abhinav Kumar, Reza Tourani.
+    Persistent Backdoor Attacks in Continual Learning.
+    In Proceedings of the 34th USENIX Security Symposium, pages 6379–6397, 2025.
+    <a class='bibtex' href='/assets/bib/USENIX-Sec-2025.txt'>Bibtex</a>
+  year: 2025
 
-- citation: "Elizabeth Liri, K. K. Ramakrishnan, Koushik Kar, and Flavio Esposito. Sensing Together: Cooperative Task Adaptation and Scheduling for IoT-Nets using Renewable Energy. 
- In Proc. of the 2024 IEEE 21st International Conference on Mobile Ad Hoc and Smart Systems (MASS), Seoul, Korea (South), September 22, 2024. DOI:10.1109/MASS62177.2024.00048. <a class='bibtex' href='/assets/bib/MASS24-Liri.txt'>Bibtex</a>"
- #<a href ='https://ieeexplore.ieee.org/document/10723711'>DOI</a>
-  year: 2024
+- citation: |
+    Abhinav Kumar, George Torres, Noah Guzinski, Gaurav Panwar, Reza Tourani, Satyajayant Misra, Marcin Spoczynski, Mona Vij, Nageen Himayat.
+    LATTEO: A Framework to Support Learning Asynchronously Tempered with Trusted Execution and Obfuscation.
+    arXiv:2502.04601v1 [cs.CR], 7 Feb 2025.
+    <a class='bibtex' href='/assets/bib/latteo.txt'>Bibtex</a>
+  year: 2025
 
-- citation: "Xu Tao, Jackson Butcher, Simone Silvestri, and Flavio Esposito. iCrop: Enabling High-Precision Crop Disease Detection via LoRa Technology. 
- In Proc. of The 33rd IEEE International Conference on Computer Communications and Networks (ICCCN 2024) July 29 - 31, 2024, Big Island, Hawaii, USA (invited paper). DOI:10.1109/ICCCN61486.2024.10637527. <a class='bibtex' href='/assets/bib/ICCCN.txt'>Bibtex</a> "
- # <a href='https://ieeexplore.ieee.org/document/10637527'>DOI</a> - 
-  year: 2024
-
-- citation: "Sariboz, Emrah, Reza Tourani, Roopa Vishwanathan, and Satyajayant Misra. PEPPER: Privacy-prEserving, auditable, and fair Payment based resource discovery at the PERvasive edge.
-  In Proceedings of the 19th ACM Asia Conference on Computer and Communications Security, pp. 1447-1462. 2024. DOI:10.1145/3634737.3637679.  <a class='bibtex' href='/assets/bib/ACCCS2.txt'>Bibtex</a>"
-  # <a href ='https://dl.acm.org/doi/10.1145/3634737.3637679'>DOI</a> -
-  year: 2024
-
-- citation: "Li C, Kumar A, Guo Z, Hou J, Tourani R. Unveiling the Unseen: Exploring Whitebox Membership Inference through the Lens of Explainability. 
-  arXiv preprint arXiv:2407.01306. 2024 Jul 1. <a class='bibtex' href='/assets/bib/ARXIV24.txt'>Bibtex</a>"
-  year: 2024
-
-- citation: "Kumar, A., Aguilera, M.A.G., Tourani, R. and Misra, S., 2024, July. A Generative Framework for Low-Cost Result Validation of Machine Learning-as-a-Service Inference. 
-  In Proceedings of the 19th ACM Asia Conference on Computer and Communications Security (pp. 1246-1260).DOI:10.1145/3634737.3657015. <a class='bibtex' href='/assets/bib/ACCCS.txt'>Bibtex</a>"
-  #<a href='https://dl.acm.org/doi/10.1145/3634737.3657015'>DOI</a> - 
+- citation: |
+    Emilio Paolini, Andrea Pinto, Luca Valcarenghi, Nicola Andriolli, Luca Maggiani, and Flavio Esposito.
+    Efficient distributed learning over lossy wireless networks.
+    In Proceedings of the 2024 20th International Conference on Network and Service Management (CNSM 2024),
+    Prague, Czech Republic, Oct. 2024. DOI: 10.23919/CNSM62983.2024.10814440.
+    <a class='bibtex' href='/assets/bib/CNSM24-Emilio.txt'>Bibtex</a>
   year: 2024
 
-- citation: "Muhammad Zawish, Paul Albert, Flavio Esposito, Steven Davy, and Lizy Abraham. Energy-Efficient Uncertainty-Aware Biomass Composition Prediction at the Edge. 
-              In proc. of 5th IEEE/CVF CVPR Workshop on Vision for Agriculture (V4A). Seattle, WA. June 17th-June 24th, 2024. DOI:10.48550/arXiv.2404.11230.
-              <a class='bibtex' href='/assets/bib/zawish2024biomass.txt'>Bibtex</a>
-" 
+- citation: |
+    Chiara Camerota, Lorenzo Pappone, Tommaso Pecorella, and Flavio Esposito.
+    Addressing data security in IoT: minimum sample size and denoising diffusion models for improved malware detection.
+    In Proceedings of the 2024 20th International Conference on Network and Service Management (CNSM 2024),
+    Prague, Czech Republic, Oct. 2024. DOI: 10.23919/CNSM62983.2024.10814607.
+    <a class='bibtex' href='/assets/bib/CNSM24-Camerota.txt'>Bibtex</a>
   year: 2024
 
-- citation: "Sagan V, Coral R, Bhadra S, Alifu H, Al Akkad O, Giri A, Esposito F. Hyperfidelis: A Software Toolkit to Empower Precision Agriculture with GeoAI. Remote Sensing. 2024 Apr 29;16(9):1584. DOI:10.3390/rs16091584.
-            <a  class='bibtex' href='/assets/bib/HYPER.txt'>Bibtex</a>"
-#             <a href='https://doi.org/10.3390/rs16091584'>DOI</a> - 
+- citation: |
+    Elizabeth Liri, K. K. Ramakrishnan, Koushik Kar, and Flavio Esposito.
+    Sensing Together: Cooperative Task Adaptation and Scheduling for IoT-Nets using Renewable Energy.
+    In Proc. of the 2024 IEEE 21st International Conference on Mobile Ad Hoc and Smart Systems (MASS),
+    Seoul, Korea (South), September 22, 2024. DOI: 10.1109/MASS62177.2024.00048.
+    <a class='bibtex' href='/assets/bib/MASS24-Liri.txt'>Bibtex</a>
   year: 2024
 
-- citation: "Sourav Bhadra, Vasit Sagan, Supria Sarkar, Maxwell Braud, Todd C. Mockler, Andrea L. Eveland. PROSAIL-Net: A transfer
-          learning-based dual stream neural network to estimate leaf chlorophyll and leaf angle of crops from UAV hyperspectral images. 
-          ISPRS Journal of Photogrammetry and Remote Sensing, Volume 210, 2024, Pages 1-24, ISSN 0924-2716, DOI:10.1016/j.isprsjprs.2024.02.020. <a class='bibtex' href='/assets/bib/ISSN24.txt'>Bibtex</a>."
-  #<a href='https://doi.org/10.1016/j.isprsjprs.2024.02.020'>DOI</a> -         
+- citation: |
+    Xu Tao, Jackson Butcher, Simone Silvestri, and Flavio Esposito.
+    iCrop: Enabling High-Precision Crop Disease Detection via LoRa Technology.
+    In Proc. of The 33rd IEEE International Conference on Computer Communications and Networks (ICCCN 2024),
+    July 29–31, 2024, Big Island, Hawaii, USA (invited paper). DOI: 10.1109/ICCCN61486.2024.10637527.
+    <a class='bibtex' href='/assets/bib/ICCCN.txt'>Bibtex</a>
   year: 2024
 
-- citation: "Nurzaman Ahmed, Flavio Esposito, and Nadia Shakoor. Bridging IoT Education Through Activities: A 
-              Game-Oriented Approach with Real-time Data Visualization. In Proc. of IEEE Integrated STEM Education 
-              Conference 2024. Princeton, NJ. March 9th, 2024. DOI:10.1109/ISEC61299.2024.10665136. <a class='bibtex' href='/assets/bib/ISEC24.txt'>Bibtex</a>"
-#              <a href='https://ieeexplore.ieee.org/document/10665136'>DOI</a> -
+- citation: |
+    Sariboz, Emrah, Reza Tourani, Roopa Vishwanathan, and Satyajayant Misra.
+    PEPPER: Privacy-prEserving, auditable, and fair Payment based resource discovery at the PERvasive edge.
+    In Proceedings of the 19th ACM Asia Conference on Computer and Communications Security, pp. 1447–1462, 2024.
+    DOI: 10.1145/3634737.3637679.
+    <a class='bibtex' href='/assets/bib/ACCCS2.txt'>Bibtex</a>
   year: 2024
 
-- citation: "Lopes, F. A., Esposito, F., Sagan, V. PlantPlotGAN: A Physics-Informed Generative Adversarial Network for Plant Disease Prediction.
-              IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2024.DOI:10.1109/WACV57701.2024.00691. <a class='bibtex' href='/assets/bib/WACV24.txt'>Bibtex</a>"
-              #<a href='https://ieeexplore.ieee.org/document/10484018'>DOI</a> - 
+- citation: |
+    Li C, Kumar A, Guo Z, Hou J, Tourani R.
+    Unveiling the Unseen: Exploring Whitebox Membership Inference through the Lens of Explainability.
+    arXiv preprint arXiv:2407.01306. 2024 Jul 1.
+    <a class='bibtex' href='/assets/bib/ARXIV24.txt'>Bibtex</a>
   year: 2024
 
-- citation: "Yang, D., Kumar, A., Ray, S., Wang, W., Tourani, R., IoT Sentinel: 
-              Correlation-based Attack Detection, Localization, and Authentication in IoT 
-              Networks, IEEE International Conference on Computer Communications and Networks, 2023.DOI:10.1109/ICCCN58024.2023.10230209. <a class='bibtex' href='/assets/bib/IEEE23.txt'>Bibtex</a>"
-            #  <a href='https://ieeexplore.ieee.org/document/10230209'>DOI</a> - 
+- citation: |
+    Kumar, A., Aguilera, M.A.G., Tourani, R., and Misra, S.
+    A Generative Framework for Low-Cost Result Validation of Machine Learning-as-a-Service Inference.
+    In Proceedings of the 19th ACM Asia Conference on Computer and Communications Security (pp. 1246–1260), 2024.
+    DOI: 10.1145/3634737.3657015.
+    <a class='bibtex' href='/assets/bib/ACCCS.txt'>Bibtex</a>
+  year: 2024
+
+- citation: |
+    Muhammad Zawish, Paul Albert, Flavio Esposito, Steven Davy, and Lizy Abraham.
+    Energy-Efficient Uncertainty-Aware Biomass Composition Prediction at the Edge.
+    In proc. of 5th IEEE/CVF CVPR Workshop on Vision for Agriculture (V4A), Seattle, WA, June 17–24, 2024.
+    DOI: 10.48550/arXiv.2404.11230.
+    <a class='bibtex' href='/assets/bib/zawish2024biomass.txt'>Bibtex</a>
+  year: 2024
+
+- citation: |
+    Sagan V, Coral R, Bhadra S, Alifu H, Al Akkad O, Giri A, Esposito F.
+    Hyperfidelis: A Software Toolkit to Empower Precision Agriculture with GeoAI.
+    Remote Sensing, 16(9):1584, Apr 29, 2024. DOI: 10.3390/rs16091584.
+    <a class='bibtex' href='/assets/bib/HYPER.txt'>Bibtex</a>
+  year: 2024
+
+- citation: |
+    Sourav Bhadra, Vasit Sagan, Supria Sarkar, Maxwell Braud, Todd C. Mockler, Andrea L. Eveland.
+    PROSAIL-Net: A transfer learning-based dual stream neural network to estimate leaf chlorophyll and leaf angle of crops from UAV hyperspectral images.
+    ISPRS Journal of Photogrammetry and Remote Sensing, Volume 210, 2024, Pages 1–24.
+    DOI: 10.1016/j.isprsjprs.2024.02.020.
+    <a class='bibtex' href='/assets/bib/ISSN24.txt'>Bibtex</a>
+  year: 2024
+
+- citation: |
+    Nurzaman Ahmed, Flavio Esposito, and Nadia Shakoor.
+    Bridging IoT Education Through Activities: A Game-Oriented Approach with Real-time Data Visualization.
+    In Proc. of IEEE Integrated STEM Education Conference 2024, Princeton, NJ, March 9, 2024.
+    DOI: 10.1109/ISEC61299.2024.10665136.
+    <a class='bibtex' href='/assets/bib/ISEC24.txt'>Bibtex</a>
+  year: 2024
+
+- citation: |
+    Lopes, F. A., Esposito, F., Sagan, V.
+    PlantPlotGAN: A Physics-Informed Generative Adversarial Network for Plant Disease Prediction.
+    IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2024.
+    DOI: 10.1109/WACV57701.2024.00691.
+    <a class='bibtex' href='/assets/bib/WACV24.txt'>Bibtex</a>
+  year: 2024
+
+- citation: |
+    Yang, D., Kumar, A., Ray, S., Wang, W., Tourani, R.
+    IoT Sentinel: Correlation-based Attack Detection, Localization, and Authentication in IoT Networks.
+    IEEE International Conference on Computer Communications and Networks, 2023.
+    DOI: 10.1109/ICCCN58024.2023.10230209.
+    <a class='bibtex' href='/assets/bib/IEEE23.txt'>Bibtex</a>
   year: 2023
 
-- citation: "Dougherty, S., Kumar, A., Hou, J., Tourani, R., MTabakhi, A., A Stealthy Inference Attack 
-              on Split Learning with a Split-Fuse 
-              Defensive Measure, IEEE Conference on Communications and Network Security.
-              IEEE Conference on Communications and Network Security (CSN). 2023.
-              Orlando, FL, USA, October 2-5, 2023. DOI: 10.1109/CNS59707.2023.10288661. <a class='bibtex' href='/assets/bib/IEEE232.txt'>Bibtex</a>"
- #             <a href='https://doi.org/10.1109/CNS59707.2023.10288661'>DOI</a> - 
+- citation: |
+    Dougherty, S., Kumar, A., Hou, J., Tourani, R., MTabakhi, A.
+    A Stealthy Inference Attack on Split Learning with a Split-Fuse Defensive Measure.
+    IEEE Conference on Communications and Network Security (CNS), Orlando, FL, USA, October 2–5, 2023.
+    DOI: 10.1109/CNS59707.2023.10288661.
+    <a class='bibtex' href='/assets/bib/IEEE232.txt'>Bibtex</a>
   year: 2023
 
-- citation: "Ahmed, N., Esposito, F., Okafor, O., Shakoor, N. SoftFarmNet: Reconfigurable Wi-Fi HaLow Networks for Precision Agriculture (To appear in IEEE CloudNet 2023)"
+- citation: |
+    Ahmed, N., Esposito, F., Okafor, O., Shakoor, N.
+    SoftFarmNet: Reconfigurable Wi-Fi HaLow Networks for Precision Agriculture (to appear in IEEE CloudNet 2023).
   year: 2023
 
-- citation: "Wells, K., Lopes, F. A., Sagan, V., Esposito, F. A multifaceted benchmarking of GAN architectures on generating synthetic satellite imagery. IEEE 52nd Applied Imagery Pattern Recognition Workshop (AIPR). 2023.
-            St. Louis, MO, USA, September 27-29, 2023. DOI: 10.1109/AIPR60534.2023.10440718. <a class='bibtex' href='/assets/bib/IEEE233.txt'>Bibtex</a>"
-#            <a href='https://doi.org/10.1109/AIPR60534.2023.10440718'>DOI</a> - 
+- citation: |
+    Wells, K., Lopes, F. A., Sagan, V., Esposito, F.
+    A multifaceted benchmarking of GAN architectures on generating synthetic satellite imagery.
+    IEEE 52nd Applied Imagery Pattern Recognition Workshop (AIPR), St. Louis, MO, USA, September 27–29, 2023.
+    DOI: 10.1109/AIPR60534.2023.10440718.
+    <a class='bibtex' href='/assets/bib/IEEE233.txt'>Bibtex</a>
   year: 2023
