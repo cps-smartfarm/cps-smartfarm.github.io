@@ -58,9 +58,12 @@
 - citation: |
     Mohammad Amir Salari, Abhinav Kumar, Federico Rinaudi, Reza Tourani, Alessio Sacco, Flavio Esposito.
     Privacy Analysis of Oblivious DNS over HTTPS: A Website Fingerprinting Study.
-    In IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2025. Awarded Best Paper.
+    In IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2025. **Awarded Best Paper** ⭐
     <a class='bibtex' href='/assets/bib/USENIX-Sec-2025.txt'>Bibtex</a>
   year: 2025
+
+
+  
 
 - citation: |
     Nexhi Sula, Abhinav Kumar, Han Wang, Jie Hou, Reza Tourani.
