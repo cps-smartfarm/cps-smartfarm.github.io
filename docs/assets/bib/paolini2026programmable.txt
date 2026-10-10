@@ -1,0 +1,10 @@
+@article{paolini2026programmable,
+  author = {Emilio Paolini and Andrea Pinto and Luca Valcarenghi and Flavio Esposito},
+  title = {Programmable In-Network Aggregation for Communication-Aware Federated Learning in {5G RANs}},
+  journal = {IEEE Transactions on Network and Service Management},
+  volume = {23},
+  pages = {5885--5899},
+  year = {2026},
+  doi = {10.1109/TNSM.2026.3697723},
+  url = {https://doi.org/10.1109/TNSM.2026.3697723}
+}

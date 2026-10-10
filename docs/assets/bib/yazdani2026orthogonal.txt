@@ -1,0 +1,9 @@
+@inproceedings{yazdani2026orthogonal,
+  author = {Shamim Yazdani and Noah Guzinski and George Torres and Gaurav Panwar and Reza Tourani and Satyajayant Misra},
+  title = {Mitigating Gradient Leakage in Asynchronous Federated Learning via Orthogonal Obfuscation},
+  booktitle = {IEEE Conference on Communications and Network Security (CNS)},
+  address = {Newark, Delaware, USA},
+  publisher = {IEEE},
+  month = sep,
+  year = {2026}
+}

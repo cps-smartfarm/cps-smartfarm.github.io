@@ -1,0 +1,10 @@
+@inproceedings{tabassoum2026unveiling,
+  author = {Nafiza Tabassoum and Shamim Yazdani and Zhen Guo and Jie Hou and Han Wang and Reza Tourani},
+  title = {Unveiling the Unseen: Exploring Membership Inference Leakage via the Lens of Explainability},
+  booktitle = {IEEE International Conference on Tools with Artificial Intelligence (ICTAI)},
+  address = {Boca Raton, Florida, USA},
+  publisher = {IEEE},
+  month = nov,
+  year = {2026},
+  note = {To appear}
+}

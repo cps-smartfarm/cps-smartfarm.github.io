@@ -1,0 +1,13 @@
+@inproceedings{hassan2026multitab,
+  author = {Tanzil Bin Hassan and Kevin S. Chan and Fikadu Dagefu and Jonathan D. Ashdown and Flavio Esposito and Francesco Restuccia},
+  title = {{Multi-TAB}: Multi-View Inference at the Edge with Resource-Aware Split Computing},
+  booktitle = {27th IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM)},
+  address = {Bologna, Italy},
+  publisher = {IEEE},
+  pages = {96--105},
+  month = jun,
+  year = {2026},
+  doi = {10.1109/WoWMoM69805.2026.00022},
+  url = {https://doi.org/10.1109/WoWMoM69805.2026.00022},
+  note = {Best Paper Award}
+}

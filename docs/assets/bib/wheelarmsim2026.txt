@@ -1,0 +1,6 @@
+@inproceedings{wheelarmsim2026,
+  author = {Vittorio Di Giorgio and Madi Babaiasl and Guangping Liu and Tipu Sultan and Nick M. Hawkins and Flavio Esposito},
+  title = {{WheelArm-Sim}: A Manipulation and Navigation Combined Multimodal Synthetic Data Generation Simulator for Unified Control in Assistive Robotics},
+  booktitle = {Proceedings of the IEEE International Symposium on Medical Robotics (ISMR)},
+  year = {2026}
+}

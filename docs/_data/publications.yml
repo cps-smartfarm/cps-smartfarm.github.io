@@ -1,4 +1,193 @@
 - citation: |
+    Emilio Paolini, Andrea Pinto, Luca Valcarenghi, and Flavio Esposito.
+    Programmable In-Network Aggregation for Communication-Aware Federated Learning in 5G RANs.
+    IEEE Transactions on Network and Service Management, 23:5885–5899, 2026. doi: 10.1109/TNSM.2026.3697723.
+    <a class='bibtex' href='/assets/bib/paolini2026programmable.txt'>Bibtex</a>
+  year: 2026
+
+- citation: |
+    Xu Tao, Jackson Butcher, Simone Silvestri, Flavio Esposito, and Sajal K. Das.
+    iCrop+: On-Device AI for Crop Disease Detection with Adaptive Offloading over LoRa.
+    ACM Transactions on Cyber-Physical Systems, published online February 6, 2026. doi: 10.1145/3795791.
+    <a class='bibtex' href='/assets/bib/tao2026icropplus.txt'>Bibtex</a>
+  year: 2026
+
+- citation: |
+    Shamim Yazdani, Noah Guzinski, George Torres, Gaurav Panwar, Reza Tourani, and Satyajayant Misra.
+    Mitigating Gradient Leakage in Asynchronous Federated Learning via Orthogonal Obfuscation.
+    IEEE Conference on Communications and Network Security (CNS), Newark, Delaware, September 2026.
+    <a class='bibtex' href='/assets/bib/yazdani2026orthogonal.txt'>Bibtex</a>
+  year: 2026
+
+- citation: |
+    Nexhi Sula, Nafiza Tabassoum, Jie Hou, Reza Tourani, and Han Wang.
+    Privacy-Preserving Split Learning via Noise Adaptive Representation Training.
+    IEEE Conference on Communications and Network Security (CNS), Newark, Delaware, September 2026.
+    <a class='bibtex' href='/assets/bib/sula2026noiseadaptive.txt'>Bibtex</a>
+  year: 2026
+
+- citation: |
+    Nafiza Tabassoum, Shamim Yazdani, Zhen Guo, Jie Hou, Han Wang, and Reza Tourani.
+    Unveiling the Unseen: Exploring Membership Inference Leakage via the Lens of Explainability.
+    IEEE International Conference on Tools with Artificial Intelligence (ICTAI), Boca Raton, Florida, November 2026 (to appear).
+    <a class='bibtex' href='/assets/bib/tabassoum2026unveiling.txt'>Bibtex</a>
+  year: 2026
+
+- citation: |
+    Tanzil Bin Hassan, Kevin S. Chan, Fikadu Dagefu, Jonathan Ashdown, Flavio Esposito, and Francesco Restuccia.
+    Multi-TAB: Multi-View Inference at the Edge with Resource-Aware Split Computing.
+    27th IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM), Bologna, Italy, June 2026. Best Paper Award. doi: 10.1109/WoWMoM69805.2026.00022.
+    <a class='bibtex' href='/assets/bib/hassan2026multitab.txt'>Bibtex</a>
+  year: 2026
+
+- citation: |
+    Vittorio Di Giorgio, Madi Babaiasl, Guangping Liu, Tipu Sultan, Nick M. Hawkins, and Flavio Esposito.
+    WheelArm-Sim: A Manipulation and Navigation Combined Multimodal Synthetic Data Generation Simulator for Unified Control in Assistive Robotics.
+    IEEE International Symposium on Medical Robotics (ISMR), 2026.
+    <a class='bibtex' href='/assets/bib/wheelarmsim2026.txt'>Bibtex</a>
+  year: 2026
+
+- citation: |
+    Cristian Zilli, Alessio Sacco, Flavio Esposito, and Guido Marchetto.
+    ClearNET: Enhancing Transparency in Opaque Network Models Using Explainable AI (XAI) for Efficient Traffic Engineering.
+    IEEE Transactions on Network and Service Management, 22(4):3617–3631, 2025. doi: 10.1109/TNSM.2025.3567654.
+    <a class='bibtex' href='/assets/bib/clearnet2025.txt'>Bibtex</a>
+  year: 2025
+
+- citation: |
+    Ayaka Tsutsumi, Chiara Camerota, Flavio Esposito, Si-Mi Park, Tiffany Taylor, and Shin Miyata.
+    Forecasting Pediatric Trauma Volumes: Insights From a Retrospective Study Using Machine Learning.
+    Journal of Surgical Research, 306:33–42, 2025. doi: 10.1016/j.jss.2024.12.010.
+    <a class='bibtex' href='/assets/bib/traumaml2024.txt'>Bibtex</a>
+  year: 2025
+
+- citation: |
+    L. Pappone, A. Sacco, and F. Esposito.
+    Estimation of Traffic Matrices via Super-Resolution and Federated Learning.
+    IEEE Transactions on Network and Service Management, Special Issue on Reliable Networks, 2024. doi: 10.1109/TNSM.2024.3516472.
+    <a class='bibtex' href='/assets/bib/superresfedtm2024.txt'>Bibtex</a>
+  year: 2024
+
+- citation: |
+    Alessio Sacco, Matteo Flocco, Flavio Esposito, and Guido Marchetto.
+    Owl: Congestion Control with Partially Invisible Networks via Reinforcement Learning.
+    IEEE INFOCOM 2021, IEEE Conference on Computer Communications, 2021.
+    <a class='bibtex' href='/assets/bib/infocom2021.txt'>Bibtex</a>
+  year: 2021
+
+- citation: |
+    Dmitrii Chemodanov, Flavio Esposito, Andrei Sukhov, Prasad Calyam, Huy Trinh, and Zakariya Oraibi.
+    AGRA: AI-Augmented Geographic Routing Approach for IoT-Based Incident-Supporting Applications.
+    Future Generation Computer Systems, 92:1051–1065, 2019. doi: 10.1016/j.future.2017.08.009.
+    <a class='bibtex' href='/assets/bib/Chemodanov2017.txt'>Bibtex</a>
+  year: 2019
+
+- citation: |
+    Mary Hogan and Flavio Esposito.
+    Music-Defined Networking.
+    Proceedings of the 17th ACM Workshop on Hot Topics in Networks (HotNets '18), Redmond, Washington, November 2018, pages 155–161. doi: 10.1145/3286062.3286085.
+    <a class='bibtex' href='/assets/bib/mdn.txt'>Bibtex</a>
+  year: 2018
+
+- citation: |
+    Flavio Esposito, Donato Di Paola, and Ibrahim Matta.
+    A General Distributed Approach to Slice Embedding with Guarantees.
+    Technical Report BU-CS-2012-014, 2012.
+    <a class='bibtex' href='/assets/bib/cad.txt'>Bibtex</a>
+  year: 2012
+
+- citation: |
+    Flavio Esposito, Ibrahim Matta, and Vatche Ishakian.
+    Slice Embedding Solutions for Distributed Service Architectures.
+    ACM Journal of Computing Surveys, 2012.
+    <a class='bibtex' href='/assets/bib/sliceEmbeddingSurvey.txt'>Bibtex</a>
+  year: 2012
+
+- citation: |
+    Vatche Ishakian, Joseph Akinwumi, Flavio Esposito, and Ibrahim Matta.
+    On Supporting Mobility and Multihoming in Recursive Internet Architectures.
+    Computer Communication, 2011.
+    <a class='bibtex' href='/assets/bib/RINA-mobility-journal2011.txt'>Bibtex</a>
+  year: 2011
+
+- citation: |
+    Flavio Esposito, Ibrahim Matta, Debajyoti Bera, and Pietro Michiardi.
+    On the Impact of Seed Scheduling in Peer-to-Peer Networks.
+    Computer Networks, 2011.
+    <a class='bibtex' href='/assets/bib/EspositoPFS-journal.txt'>Bibtex</a>
+  year: 2011
+
+- citation: |
+    Flavio Esposito, Anna Maria Vegni, Ibrahim Matta, and Alessandro Neri.
+    On Modeling Speed-Based Vertical Handovers in Vehicular Networks: "Dad, Slow Down, I Am Watching the Movie."
+    IEEE Globecom Workshops, 2010, pages 11–15. doi: 10.1109/GLOCOMW.2010.5700126.
+    <a class='bibtex' href='/assets/bib/SWiM2010.txt'>Bibtex</a>
+  year: 2010
+
+- citation: |
+    Anna Maria Vegni and Flavio Esposito.
+    A Speed-Based Vertical Handover Algorithm for VANET.
+    7th International Workshop on Intelligent Transportation (WIT), 2010.
+    <a class='bibtex' href='/assets/bib/WIT2010_VegniEsposito.txt'>Bibtex</a>
+  year: 2010
+
+- citation: |
+    Flavio Esposito and Ibrahim Matta.
+    PreDA: Predicate Routing for DTN Architectures over MANET.
+    IEEE Global Communications Conference (GLOBECOM), 2009.
+    <a class='bibtex' href='/assets/bib/preda.txt'>Bibtex</a>
+  year: 2009
+
+- citation: |
+    Flavio Esposito, Ibrahim Matta, Pietro Michiardi, Nobuyuki Mitsutake, and Damiano Carra.
+    Seed Scheduling for Peer-to-Peer Networks.
+    8th IEEE International Symposium on Network Computing and Applications (NCA), Boston, 2009.
+    <a class='bibtex' href='/assets/bib/Esposito-NCA09.txt'>Bibtex</a>
+  year: 2009
+
+- citation: |
+    Anna Maria Vegni and Flavio Esposito.
+    Location-Aware Mobility Assisted Services for Heterogeneous Wireless Technologies.
+    2009 IEEE MTT-S International Microwave Workshop on Wireless Sensing, Local Positioning, and RFID, September 2009. doi: 10.1109/IMWS2.2009.5307889.
+    <a class='bibtex' href='/assets/bib/IMWS2009_VegniEsposito.txt'>Bibtex</a>
+  year: 2009
+
+- citation: |
+    Gabriele Ferrari Aggradi, Flavio Esposito, and Ibrahim Matta.
+    Supporting Predicate Routing in DTN over MANET.
+    ACM MobiCom Workshop on Challenged Networks (CHANTS 2008), San Francisco, September 2008.
+    <a class='bibtex' href='/assets/bib/CHANTS08.txt'>Bibtex</a>
+  year: 2008
+
+- citation: |
+    Davide Macagnano, Giuseppe Destino, Flavio Esposito, and Giuseppe Abreu.
+    MAC Performances for Localization and Tracking in Wireless Sensor Networks.
+    Workshop on Positioning, Navigation and Communication (WPNC), Hannover, Germany, 2007.
+    <a class='bibtex' href='/assets/bib/WPNC07.txt'>Bibtex</a>
+  year: 2007
+
+- citation: |
+    Flavio Esposito, Francesco Chiti, and Romano Fantacci.
+    Voice and Data Traffic Classes Management for Heterogeneous Networks Enabled by Mobile Phones.
+    INFOCOM 2006, 25th Conference on Computer Communications, April 2006.
+    <a class='bibtex' href='/assets/bib/infocom06.txt'>Bibtex</a>
+  year: 2006
+
+- citation: |
+    Flavio Esposito, Francesco Chiti, Romano Fantacci, Junzhao Sun, and Simo Hosio.
+    Agent Based Adaptive Management of Non-Homogeneous Connectivity Resources.
+    IEEE International Conference on Communications (ICC), Istanbul, Turkey, June 2006.
+    <a class='bibtex' href='/assets/bib/ICC2006.txt'>Bibtex</a>
+  year: 2006
+
+- citation: |
+    Flavio Esposito, Francesco Chiti, Junzhao Sun, Simo Hosio, and Romano Fantacci.
+    Non-Homogeneous Connectivity Management for GPRS and Bluetooth Enabled Networks.
+    International Conference on Mobile and Ubiquitous Multimedia (MUM), Christchurch, New Zealand, December 2005.
+    <a class='bibtex' href='/assets/bib/MUM05.txt'>Bibtex</a>
+  year: 2005
+
+- citation: |
     Chiara Camerota, Madi Babaiasl, Nadia Shakoor, and Flavio Esposito,
     Early Detection and Management of Crop Pests Using Quadruped Robotic Systems: Challenges and Open Problems.
     In Proceedings of the IEEE Workshop on Converged Communication, Computing, and Control for Next-Generation Cyber-Physical Systems (C4CPS),
