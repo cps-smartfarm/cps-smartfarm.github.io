@@ -1,0 +1,9 @@
+@article{tao2026icropplus,
+  author = {Tao, Xu and Butcher, Jackson and Silvestri, Simone and Esposito, Flavio and Das, Sajal K.},
+  title = {{iCrop+}: On-Device {AI} for Crop Disease Detection with Adaptive Offloading over {LoRa}},
+  journal = {ACM Transactions on Cyber-Physical Systems},
+  month = feb,
+  year = {2026},
+  doi = {10.1145/3795791},
+  url = {https://doi.org/10.1145/3795791}
+}
